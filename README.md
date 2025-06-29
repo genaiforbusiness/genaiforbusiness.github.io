@@ -1,0 +1,1 @@
+# genaiforbusiness.github.io
