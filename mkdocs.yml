@@ -1,0 +1,132 @@
+site_name: Generative AI for Business
+site_url: https://genaiforbusiness.github.io
+theme:
+  name: material
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: material/robot-excited-outline
+  favicon: assets/images/assistant_24dp_2854C5.png
+  features:
+    - content.code.copy
+    - content.code.annotate
+    - content.tooltips
+    - navigation.tabs
+    - navigation.path
+    - navigation.expand
+    - navigation.indexes
+    - navigation.tracking
+    - navigation.footer
+    - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
+    # - toc.integrate
+    - toc.follow
+    - search.suggest
+    - search.highlight
+
+copyright: Copyright &copy; 2025 Midhubalan Balasubramanian
+repo_url: https://github.com/genaiforbusiness/code-samples
+repo_name: genaiforbusiness/code-samples
+extra:
+  generator: true
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/midhubalan
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/midhubalan 
+
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+        #primary: indigo
+        #accent: indigo
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+        #primary: indigo
+        #accent: indigo
+
+plugins:
+  - tags
+  - search
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_themed: false
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
+      manual: false
+      
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      title: On this page
+  - abbr
+  - attr_list
+  - pymdownx.blocks.caption
+# Emoji config
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+# Mermaid markdown config for diagrams
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+# Code block display config
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  # Tabbed content
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  # Formatting text
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+nav:
+  - Home: index.md
+  - Syllabus: 
+    - syllabus/index.md
+    - Course Description: syllabus/course-description.md
+    - Course Materials: syllabus/course-materials.md
+    - Grading & Evaluation: syllabus/grading.md
+    - Project Guide: syllabus/project-guide.md
+    - Schedule: syllabus/schedule.md
+    - Course Policies: syllabus/course-policies.md
+
+  - Resources:
+    - resources/index.md
+    - Data Sources: resources/open-data.md
+    
