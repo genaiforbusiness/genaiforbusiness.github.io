@@ -1,47 +1,27 @@
 ---
-icon: material/language-python
+icon: simple/googlegemini
 ---
 
+# Course Description
 
-## **Course Description**
+## Overview
 
-In today's data-driven business landscape, the ability to programmatically access, manipulate, visualize, and model data is no longer a niche skill but a core competency for effective decision-making. **Data Programming Essentials with Python** is designed specifically for individuals, particularly those in business roles with no prior programming experience, aiming to demystify the world of data science tooling. This course provides a hands-on, practical introduction to the essential concepts and Python libraries needed to turn raw data into actionable insights.
+This course provides a practical, hands-on introduction to the world of **Generative AI** from a business perspective. You will learn how these AI skills are being applied today to automate marketing campaigns, develop new financial analysis tools, streamline supply chain operations, and create intelligent customer service solutions. In today's economy, understanding how to build with and manage AI is no longer a niche technical skill—it's a core business competency. This course moves beyond theory and buzzwords, treating you as a product manager and developer tasked with building a real-world AI application. While this is not a course for programming beginners, it is designed for business students with a foundational knowledge of Python. We will build upon the skills from the prerequisite courses, focusing on applying them rather than learning them from scratch.
 
-We move beyond just syntax, focusing on building intuition for how modern data science libraries like **Polars** (for high-performance data manipulation), **Altair** (for declarative statistical visualization), and **scikit-learn** (for machine learning) are designed. By understanding the choices behind their APIs and domain models – grounded in practical object-oriented concepts – you'll gain a deeper, more adaptable understanding that transcends rote memorization.
+A unique aspect of this course is our 'AI-assisted learning' approach. 🤖 We won't just study AI; we will use it as a creative partner and a productivity tool. You'll leverage AI for brainstorming project ideas, assisting with code development, and deepening your own research, learning the critical meta-skill of how to collaborate effectively with intelligent systems.
 
-Starting with Python fundamentals within the accessible Google Colab environment, we'll progress through the core data science workflow: acquiring and exploring data, generating insightful visualizations, building and evaluating predictive models (regression and classification), and uncovering structure through unsupervised techniques (clustering and dimensionality reduction). We will also introduce approaches for handling increasingly common specialized data types like time series and text data. Throughout the course, you will be encouraged to leverage documentation and generative AI tools strategically to accelerate your learning and problem-solving.
+Through a semester-long, project-based experience, you will learn to identify business opportunities for AI, design user-centric applications, and build a functional **AI-powered prototype** using enterprise-grade cloud tools. This is an intensive, experiential course. Success requires continuous engagement, collaborative teamwork, and a curiosity to build with the defining technology of our time.
 
-The ultimate goal is to equip you with the foundational knowledge and practical confidence to apply these powerful data programming techniques to your own professional challenges and personal projects, enabling you to ask better questions and derive more value from data, irrespective of your starting point.
-
-
-## **Learning Objectives**
+## Learning Objectives
 
 Upon successful completion of this course, you will be able to:
 
-1.  **Master Core Python Fundamentals for Data Science:**
-    * Write functional Python code utilizing essential data structures (lists, dictionaries), control flow (loops, conditionals), and functions.
-    * Set up and manage a data science programming environment using Google Colab notebooks.
-    * Explain fundamental object-oriented concepts (objects, classes, methods, attributes) practically as they relate to using and understanding Python library APIs.
-
-2.  **Perform Effective Exploratory Data Analysis (EDA):**
-    * Manipulate and transform data efficiently using the Polars DataFrame library and its expression API.
-    * Create informative and interpretable data visualizations using the Altair declarative charting library.
-    * Identify patterns, trends, anomalies, and relationships within datasets to guide further analysis.
-
-3.  **Implement Foundational Machine Learning Workflows:**
-    * Understand and apply the standard machine learning workflow using scikit-learn, including data preprocessing and model evaluation.
-    * Build, train, and interpret results from common supervised learning models for regression and classification tasks.
-    * Apply basic unsupervised learning techniques, including clustering (K-Means) and dimensionality reduction (PCA), to uncover structure in data.
-
-4.  **Gain Exposure to Specialized Data Types:**
-    * Describe the unique characteristics and analytical approaches relevant to time series data and perform basic time series analysis.
-    * Understand common techniques for representing and analyzing textual data at an introductory level.
-
-5.  **Develop Practical Data Problem-Solving Skills:**
-    * Interpret the API design choices of major data science libraries (Polars, Altair, scikit-learn) to use them more effectively.
-    * Leverage library documentation, online resources, and generative AI tools as aids for independent learning and troubleshooting.
-    * Translate loosely defined problems into concrete data analysis steps and apply appropriate programming techniques within a course project.
-    * Communicate findings from data analysis clearly through visualizations and summaries.
-
-
+* **Identify & Strategize:** Analyze business processes and identify high-value opportunities for applying Generative AI solutions.
+* **Design & Plan:** Translate a business idea into a formal product plan, complete with user personas, experience maps, and technical requirements, using professional **project management** tools like GitHub.
+* **Build & Prototype:** Develop a functional AI chatbot or application prototype by customizing and extending a foundational code scaffold.
+* **Engineer Prompts:** Design, test, and refine sophisticated prompts to control AI model behavior and ensure reliable, high-quality outputs.
+* **Integrate Advanced AI Techniques:** Implement advanced features like **Retrieval-Augmented Generation (RAG)** to allow your application to reason over specific documents and data.
+* **Leverage Cloud Platforms:** Use an enterprise-grade cloud platform (Google Cloud) to run and manage components of your AI application in a secure, sandboxed environment.
+* **Collaborate with AI:** Use AI-powered developer tools like CodeAssist as an effective coding partner to improve productivity and code quality.
+* **Communicate & Demonstrate:** Articulate the value, functionality, and ethical considerations of your AI application to both technical and non-technical audiences.
 
