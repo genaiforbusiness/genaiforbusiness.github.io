@@ -7,20 +7,24 @@ hide:
 # Schedule
 
 
+## Course Schedule
+
+This schedule is designed around a weekly rhythm. The first session of the week is typically a **Learner Session** 🧠, where we introduce and discuss new concepts. The second session is a **Builder Session** 🛠️, where you'll apply those concepts directly to your team project in a hands-on workshop format.
+
 | Module | Session, Topic, & Graded Deliverables |
 | :--- | :--- |
-| **Scoping & Foundation Models** | **Week 1:**<br/>**1A:** Course Overview & The AI Proof-of-Concept Challenge<br/>**1B:** The Generative AI Stack: GitHub, Codespaces, & Foundational APIs |
-| | **Week 2:**<br/>**2A:** Problem Framing: Identifying High-Value Use Cases for LLMs<br/>**2B:** User-Centric Design: Personas & User Stories for AI |
-| | **Week 3:**<br/>**3A:** AI Project Lifecycle & Task Tokenization<br/>**3B:** Workshop & **Deliverable I: Project Scope & User Stories Due** |
-| **Prompting & Application Architecture** | **Week 4:**<br/>**4A:** Application Architecture: Building a UI with Streamlit<br/>**4B:** API Integration: The Core Conversation Loop |
-| | **Week 5:**<br/>**5A:** Prompt Engineering I: Zero-Shot & Few-Shot Prompting<br/>**5B:** Prompt Engineering II: Role-Playing, Personas, & Tone |
-| | **Week 6:**<br/>**6A:** Responsible AI I: Bias, Fairness, & Hallucination<br/>**6B:** Responsible AI II: Safety Filters & Content Moderation |
-| | **Week 7:**<br/>**7A:** In-Class Workshop: MVP Debugging & Prompt Tuning<br/>**7B:** Peer Feedback Session I |
-| | **Week 8:**<br/>**8A:** MVP Checkpoint & Code Review<br/>**8B:** **Deliverable II: MVP Code Submitted for Review** |
-| **Grounding & Model Evaluation** | **Week 9:**<br/>**9A:** Grounding I: Introduction to Retrieval-Augmented Generation (RAG)<br/>**9B:** Grounding II: Building a Basic RAG Pipeline |
-| | **Week 10:**<br/>**10A:** Model Evaluation: Reading Model Cards & Performance Metrics<br/>**10B:** Human-AI Interaction: Principles of AI UX |
-| | **Week 11:**<br/>**11A & 11B:** ==Project Booster: Async Week==<br/>Dedicated team time for project work. No formal class sessions. |
-| | **Week 12:**<br/>**12A:** In-Class Workshop: RAG Implementation & UX Refinement<br/>**12B:** **Deliverable III: Project Roadmap & Draft Pitch Deck Due** |
-| **Deployment & Demonstration** | **Week 13:**<br/>**13A:** Stakeholder Communication: Pitching Your PoC<br/>**13B:** Production Readiness: Final Testing & Polishing |
-| | **Week 14:**<br/>**14A & 14B:** ==Thanksgiving Recess== |
+| **Module 1: Large Language Models** | **Week 1:**<br/>**Learner:** Introduction to LLMs & The PoC Challenge<br/>**Builder:** The Generative AI Stack: Setting up GitHub & Codespaces |
+| | **Week 2:**<br/>**Learner:** Tokens, Context Windows, & Reading Model Cards<br/>**Builder:** Problem Framing & Translating Business Needs to User Stories |
+| | **Week 3:**<br/>**Learner:** Embeddings, Fine-Tuning Concepts, & Model Configuration<br/>**Builder:** Workshop & **Deliverable I: Project Scope & User Stories Due** |
+| **Module 2: Prompt Design** | **Week 4:**<br/>**Learner:** Prompt Elements: Instructions, Roles, & Few-Shot Examples<br/>**Builder:** Architecting the MVP & Engineering Core Prompts |
+| | **Week 5:**<br/>**Learner:** Model Capabilities: Structured Outputs, Function Calling, & Chain-of-Thought<br/>**Builder:** Implementing and Testing Advanced Prompts in Your App |
+| | **Week 6:**<br/>**Learner:** AI Safety & Ethics in Prompting<br/>**Builder:** Responsible AI Workshop: Auditing Your Project for Risks |
+| | **Week 7:**<br/>**Learner:** Debugging Strategies for LLM Applications<br/>**Builder:** In-Class Workshop: MVP Debugging & Peer Feedback I |
+| | **Week 8:**<br/>**Learner:** Code Review Clinic & Best Practices<br/>**Builder:** **Deliverable II: MVP Code Submitted for Review** |
+| **Module 3: Context Engineering** | **Week 9:**<br/>**Learner:** Grounding Models with Retrieval-Augmented Generation (RAG) <br/>**Builder:** Workshop: Implementing a Basic RAG Pipeline |
+| | **Week 10:**<br/>**Learner:** Context Caching, Summarization, & "Needle in a Haystack" Findings<br/>**Builder:** Workshop: Refining RAG & Improving AI UX |
+| | **Week 11:**<br/>**Learner & Builder:** ==Project Booster: Async Week==<br/>Dedicated team time for project work. No formal class sessions. |
+| | **Week 12:**<br/>**Learner:** Model Context Protocol & Advanced Grounding Techniques<br/>**Builder:** **Deliverable III: Project Roadmap & Draft Pitch Deck Due** |
+| **Module 4: Agents** | **Week 13:**<br/>**Learner:** Introduction to AI Agents & Models with Tools<br/>**Builder:** Workshop: Finalizing Your App & Pitching Your PoC |
+| | **Week 14:**<br/>**Learner & Builder:** ==Thanksgiving Recess== |
 | | **Finals Week:**<br/>**Final Project Presentations & Demonstrations** |
