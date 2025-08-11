@@ -128,6 +128,14 @@ nav:
     - Course Policies: syllabus/course-policies.md
     - AI Policy: syllabus/ai-policy.md
     - Teaching Philosophy: syllabus/teaching-philosophy.md
+  - LLMs:
+    - llms/index.md
+  - Prompt Design:
+    - prompts/index.md
+  - Context Engineering:
+    - contexts/index.md
+  - Agents:
+    - agents/index.md
 
 
   - Resources:
