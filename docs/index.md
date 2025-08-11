@@ -24,7 +24,7 @@ hide:
     ---
 
 
-    [:octicons-arrow-right-24: Instructor Info Page via Canvas](https://canvas.pitt.edu/courses/321111/pages/instructor-info)
+    [:octicons-arrow-right-24: Instructor Info Page via Canvas](https://canvas.pitt.edu/courses/320955/pages/instructor-info)
 
     [:octicons-arrow-right-24: Virtual Office](https://pitt.zoom.us/my/midhubalan)
 
@@ -35,13 +35,14 @@ hide:
     ---
 
 
-    [:octicons-arrow-right-24: Getting Started](getting-started/index.md)
+    [:octicons-arrow-right-24: Large Language Models](llms/index.md)
 
-    [:octicons-arrow-right-24: Foundations](foundations/index.md)
-    
-    [:octicons-arrow-right-24: Business Functions ](business-functions/index.md)
+    [:octicons-arrow-right-24: Prompt Design](prompts/index.md)
 
-    [:octicons-arrow-right-24: Experiential Learning](experiential-learning/index.md)
+    [:octicons-arrow-right-24: Context Engineering](contexts/index.md)
+
+    [:octicons-arrow-right-24: Agents & Tools](agents/index.md)
+
 
 -   :material-book-check-outline:{ .lg .middle } __Grading & Evaluation__
 
@@ -50,32 +51,26 @@ hide:
 
     [:octicons-arrow-right-24: Grading Information](syllabus/grading.md)
 
-    [:octicons-arrow-right-24: Concept Map Guide](syllabus/concept-map-guide.md)
+    [:octicons-arrow-right-24: AI Project Description](syllabus/ai-project/index.md)
 
-    [:octicons-arrow-right-24: Company Analysis Guide](syllabus/company-analysis-guide.md)
+    [:octicons-arrow-right-24: Project Guide](syllabus/ai-project/project-guide.md)
 
-    [:octicons-arrow-right-24: Canvas Assignment Page](https://canvas.pitt.edu/courses/313542)
+    [:octicons-arrow-right-24: Canvas Assignment Page](https://canvas.pitt.edu/courses/320955)
 
 -   :octicons-beaker-24:{ .lg .middle } __Tools__
 
     ---
 
-    [:octicons-arrow-right-24: NotebookLM](getting-started/notebooklm/index.md)
+    [:octicons-arrow-right-24: Google AI Studio](#)
 
-    [:octicons-arrow-right-24: Concept Map](getting-started/concept-map/index.md)
+    [:octicons-arrow-right-24: GitHub Codespaces](#)
 
 -   :material-gold:{ .lg .middle } __Resources and References__
 
     ---
 
 
-    [:octicons-arrow-right-24: Course Materials](syllabus/course-materials.md)
 
-    [:octicons-arrow-right-24: Company Research @ Pitt](https://pitt.libguides.com/companyresearch)
-
-    [:octicons-arrow-right-24: NotebookLM Docs](https://support.google.com/notebooklm)
-
-    [:octicons-arrow-right-24: Lucid Education Suite @ Pitt Docs](https://teaching.pitt.edu/resources/an-introduction-to-the-lucid-education-suite/)
 
 
 </div>
