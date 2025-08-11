@@ -33,6 +33,7 @@ Completing these paths also earns you official Google Cloud badges that you can 
 | Level | Title | Cost | Date |
 | :---- | :---- | :---- |:---- |
 | Beginner | [AI Boost Bites: Your Edge in the AI-Powered World](https://www.cloudskillsboost.google/paths/2480) | Free | |
+| Beginner | [Generative AI Leader](https://www.cloudskillsboost.google/paths/1951) | Free | |
 | Beginner | [Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) | Free | |
 | Intermediate| [Generative AI Labs with Gemini on Google Cloud](https://www.cloudskillsboost.google/paths/1872)  | 21 credits | |
 | Advanced | [Generative AI Labs with Gemini on Google Cloud](https://www.cloudskillsboost.google/paths/1873) <br/> or <br/>[ Generative AI for Developers Learning Path](https://www.cloudskillsboost.google/paths/183)| 26 Credits <br/> <br/> 19 Credits| |
