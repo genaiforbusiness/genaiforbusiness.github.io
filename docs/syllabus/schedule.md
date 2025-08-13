@@ -11,20 +11,129 @@ hide:
 
 This schedule is designed around a weekly rhythm. The first session of the week is typically a **Learner Session** 🧠, where we introduce and discuss new concepts. The second session is a **Builder Session** 🛠️, where you'll apply those concepts directly to your team project in a hands-on workshop format.
 
-| Module | Session, Topic, & Graded Deliverables |
-| :--- | :--- |
-| **Module 1: Large Language Models** | **Week 1:**<br/>**Learner:** Introduction to LLMs & The PoC Challenge<br/>**Builder:** The Generative AI Stack: Setting up GitHub & Codespaces |
-| | **Week 2:**<br/>**Learner:** Tokens, Context Windows, & Reading Model Cards<br/>**Builder:** Problem Framing & Translating Business Needs to User Stories |
-| | **Week 3:**<br/>**Learner:** Embeddings, Fine-Tuning Concepts, & Model Configuration<br/>**Builder:** Workshop & **Deliverable I: Project Scope & User Stories Due** |
-| **Module 2: Prompt Design** | **Week 4:**<br/>**Learner:** Prompt Elements: Instructions, Roles, & Few-Shot Examples<br/>**Builder:** Architecting the MVP & Engineering Core Prompts |
-| | **Week 5:**<br/>**Learner:** Model Capabilities: Structured Outputs, Function Calling, & Chain-of-Thought<br/>**Builder:** Implementing and Testing Advanced Prompts in Your App |
-| | **Week 6:**<br/>**Learner:** AI Safety & Ethics in Prompting<br/>**Builder:** Responsible AI Workshop: Auditing Your Project for Risks |
-| | **Week 7:**<br/>**Learner:** Debugging Strategies for LLM Applications<br/>**Builder:** In-Class Workshop: MVP Debugging & Peer Feedback I |
-| | **Week 8:**<br/>**Learner:** Code Review Clinic & Best Practices<br/>**Builder:** **Deliverable II: MVP Code Submitted for Review** |
-| **Module 3: Context Engineering** | **Week 9:**<br/>**Learner:** Grounding Models with Retrieval-Augmented Generation (RAG) <br/>**Builder:** Workshop: Implementing a Basic RAG Pipeline |
-| | **Week 10:**<br/>**Learner:** Context Caching, Summarization, & "Needle in a Haystack" Findings<br/>**Builder:** Workshop: Refining RAG & Improving AI UX |
-| | **Week 11:**<br/>**Learner & Builder:** ==Project Booster: Async Week==<br/>Dedicated team time for project work. No formal class sessions. |
-| | **Week 12:**<br/>**Learner:** Model Context Protocol & Advanced Grounding Techniques<br/>**Builder:** **Deliverable III: Project Roadmap & Draft Pitch Deck Due** |
-| **Module 4: Agents** | **Week 13:**<br/>**Learner:** Introduction to AI Agents & Models with Tools<br/>**Builder:** Workshop: Finalizing Your App & Pitching Your PoC |
-| | **Week 14:**<br/>**Learner & Builder:** ==Thanksgiving Recess== |
-| | **Finals Week:**<br/>**Final Project Presentations & Demonstrations** |
+
+=== "Getting Started"
+
+    | Date  | Topic |
+    | :---- | :---- |
+    | 08/26 | 🧠 Course Overview & Project Introduction |
+    | 08/28 | 🛠️ Tools Overview & Dry Run |
+
+    **Pre-class Activities:**
+
+    - Read and understand [course details](https://genaiforbusiness.github.io/syllabus/)
+
+    **Deliverables:**  
+
+    - Link to your team's GitHub Repo
+
+    **Resources:**
+
+    - Git & GitHub Basics
+    - Google AI Studio
+    - GitHub Codespaces
+    - Gemini CLI
+    - Google Colab
+
+=== "Gen AI & LLMs"
+
+    | Date  | Topic |
+    | :---- | :---- |
+    | 09/02 | 🧠 Large Language Models (LLMs) & Model Capabilities |
+    | 09/04 | 🛠️ Mapping Project Tasks to Model Use & Capabilities |
+    | 09/09 | 🧠 Tokens, Context Windows, & Reading Model Cards |
+    | 09/11 | 🛠️ Problem Framing & Translating Business Needs to User Stories |
+    | 09/16 | 🧠 Embeddings, Fine-Tuning Concepts, & Model Configuration |
+    | 09/18 | 🛠️ Developing Project Governance and Delivery Framework Using AI Tools |
+
+
+    **Pre-class Activities:**
+
+    - placeholder
+    
+    **Deliverables:**  
+
+    - placeholder
+
+    **Resources:**
+
+    - placeholder
+
+=== "Prompt Design"
+
+    | Date  | Topic |
+    | :---- | :---- |
+    | 09/25 | 🧠 Anatomy of a Prompt & Basic Prompting |
+    | 09/23 | 🛠️ Working with System Instructions, Variables & Templates |
+    | 09/30 | 🧠 Prompting Strategies |
+    | 10/02 | 🛠️ Working with Prompt Structure, Reasoning, and Model Parameters|
+    | 10/07 | 🧠 AI Safety & Ethics in Prompting |
+    | 10/09 | 🛠️ Implementing Responsible AI Practices |
+    | 10/14 | 🧠 Aligning Prompt Design with Model Capabilities |
+    | 10/16 | 🛠️ Working with Thinking, Grounding, Structured Outputs, and Function Calling |
+    | 10/21 | 🧠 Prompt Development Workflow: Explore, Evaluate, and Iterate |
+    | 10/23 | 🛠️ Implementing Iterative Prompting Techniques |
+   
+    **Pre-class Activities:**
+
+    - placeholder
+    
+    **Deliverables:**  
+
+    - placeholder
+
+    **Resources:**
+
+    - placeholder
+
+=== "Context Engineering"
+
+    | Date  | Topic |
+    | :---- | :---- |
+    | 10/28 | 🧠 Grounding Models with Retrieval-Augmented Generation (RAG) |
+    | 10/30 | 🛠️ Implementing a Basic RAG Pipeline |
+    | 11/04 | ==Project Booster: Async Week== |
+    | 11/06 | ==Project Booster: Async Week== |
+    | 11/11 | 🧠 Context Caching, Summarization, & "Needle in a Haystack" Findings |
+    | 11/13 | 🛠️ Context Engineering in Practice |
+
+    **Pre-class Activities:**
+
+    - placeholder
+    
+    **Deliverables:**  
+
+    - placeholder
+
+    **Resources:**
+
+    - placeholder
+
+=== "Agents & Course Wrap-Up"
+
+    | Date  | Topic |
+    | :---- | :---- |
+    | 11/18 | 🧠 Agents, Tools, MCP, & A2A Protocol  |
+    | 11/20 | 🛠️ Agents in Action |
+    | 11/25 | ==Thanksgiving Recess== |
+    | 11/27 | ==Thanksgiving Recess== |
+    | 12/02 | 🧠 Project Retrospective & Social Learning|
+    | 12/04 | 🛠️ Presentation, Peer Review, & Course Wrap-Up | 
+    | 12/09 | ==Finals Week== |
+    | 12/11 | ==Finals Week== |
+
+
+
+    **Pre-class Activities:**
+
+    - placeholder
+    
+    **Deliverables:**  
+
+    - placeholder
+
+    **Resources:**
+
+    - placeholder
+
+
