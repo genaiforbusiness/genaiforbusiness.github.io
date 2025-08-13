@@ -128,7 +128,7 @@ nav:
     - Course Policies: syllabus/course-policies.md
     - AI Policy: syllabus/ai-policy.md
     - Teaching Philosophy: syllabus/teaching-philosophy.md
-  - LLMs:
+  - Generative AI & LLMs:
     - llms/index.md
   - Prompt Design:
     - prompts/index.md
@@ -136,9 +136,3 @@ nav:
     - contexts/index.md
   - Agents:
     - agents/index.md
-
-
-  - Resources:
-    - resources/index.md
-    - Data Sources: resources/open-data.md
-    
