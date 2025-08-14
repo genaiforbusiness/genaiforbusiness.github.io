@@ -2,19 +2,19 @@
 icon: material/calendar-start-outline
 ---
 
-# Task 1: Project Bootstrap
+# Project Bootstrap
 
 ## Team & Repository Setup
 
 ### Objective 🎯
 
-:robot: 
+<!-- :robot: 
 
 :cloud_lightning:
 
 :calendar:
 
-:people_holding_hands_tone1:
+:people_holding_hands_tone1: -->
 
 The goal of this first task is to get your team organized and set up the professional collaboration environment we will use for the entire semester: **GitHub**. This exercise will ensure that every team member has a working GitHub account and understands the basic workflow of making a contribution to a shared project. We will use a course template that includes pre-configured settings for our development environment.
 
