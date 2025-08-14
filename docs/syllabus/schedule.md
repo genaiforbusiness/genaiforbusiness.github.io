@@ -22,18 +22,21 @@ This schedule is designed around a weekly rhythm. The first session of the week 
     **Pre-class Activities:**
 
     - Read and understand [course details](https://genaiforbusiness.github.io/syllabus/)
+    - Sign up for a [GitHub](https://github.com/signup) account.
+    - Get a [Gemini API Key](https://aistudio.google.com/apikey).
 
     **Deliverables:**  
 
-    - Link to your team's GitHub Repo
+    - A link to your team's GitHub Repo. Make sure that all team members appear in the [repo's contributor list](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/viewing-a-projects-contributors).
+
 
     **Resources:**
 
-    - Git & GitHub Basics
-    - Google AI Studio
-    - GitHub Codespaces
-    - Gemini CLI
-    - Google Colab
+    - [About Git & GitHub](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) 
+    - [Google AI Studio](https://aistudio.google.com/)
+    - [GitHub Codespaces](https://docs.github.com/en/codespaces)
+    - [Gemini CLI](https://google-gemini.github.io/gemini-cli/)
+    - [Google Colab](https://colab.research.google.com/)
 
 === "Gen AI & LLMs"
 

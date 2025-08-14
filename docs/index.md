@@ -26,7 +26,7 @@ hide:
 
     [:octicons-arrow-right-24: Instructor Info Page via Canvas](https://canvas.pitt.edu/courses/320955/pages/instructor-info)
 
-    [:octicons-arrow-right-24: Virtual Office](https://pitt.zoom.us/my/midhubalan)
+    [:octicons-arrow-right-24: Office Hours (Canvas link)](https://canvas.pitt.edu/courses/320955/pages/instructor-info-2)
 
     [:octicons-arrow-right-24: Email](mailto:midhu.balan@pitt.edu)
 
@@ -53,7 +53,7 @@ hide:
 
     [:octicons-arrow-right-24: AI Project Description](syllabus/ai-project/index.md)
 
-    [:octicons-arrow-right-24: Project Guide](syllabus/ai-project/project-guide.md)
+    [:octicons-arrow-right-24: Project Guide](syllabus/ai-project/guide.md)
 
     [:octicons-arrow-right-24: Canvas Assignment Page](https://canvas.pitt.edu/courses/320955)
 
@@ -61,9 +61,9 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Google AI Studio](#)
+    [:octicons-arrow-right-24: Google AI Studio](https://aistudio.google.com/)
 
-    [:octicons-arrow-right-24: GitHub Codespaces](#)
+    [:octicons-arrow-right-24: GitHub Codespaces](https://docs.github.com/en/codespaces)
 
 -   :material-gold:{ .lg .middle } __Resources and References__
 
