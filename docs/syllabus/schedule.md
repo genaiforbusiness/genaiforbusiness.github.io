@@ -27,7 +27,7 @@ This schedule is designed around a weekly rhythm. The first session of the week 
 
     **Deliverables:**  
 
-    - A link to your team's GitHub Repo. Make sure that all team members appear in the [repo's contributor list](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/viewing-a-projects-contributors).
+    - A link to your team's GitHub Repo. Make sure that all team members appear in the [repo's contributor list](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/viewing-a-projects-contributors). See the [Project Bootstrap](ai-project/bootstrap.md) page for details.
 
 
     **Resources:**
