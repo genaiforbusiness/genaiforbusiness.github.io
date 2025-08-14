@@ -123,7 +123,8 @@ nav:
     - Grading & Evaluation: syllabus/grading.md
     - AI Project: 
         - syllabus/ai-project/index.md
-        - syllabus/ai-project/project-guide.md
+        - syllabus/ai-project/guide.md
+        - syllabus/ai-project/bootstrap.md
     - Schedule: syllabus/schedule.md
     - Course Policies: syllabus/course-policies.md
     - AI Policy: syllabus/ai-policy.md
