@@ -2,7 +2,7 @@
 icon: material/compass
 ---
 
-# Project Guide: From Idea to Pitch
+## Project Guide: From Idea to Pitch
 
 This guide is your roadmap for the semester-long project. It's broken down into four distinct stages, each with specific goals, tasks, and deliverables. Following this guide will help your team stay on track and build a successful proof-of-concept ready for its final pitch.
 
