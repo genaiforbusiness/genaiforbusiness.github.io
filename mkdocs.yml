@@ -125,6 +125,7 @@ nav:
         - syllabus/ai-project/index.md
         - Project Guide: syllabus/ai-project/guide.md
         - Bootstrap: syllabus/ai-project/bootstrap.md
+        - Project Charter: syllabus/ai-project/charter.md
         - Weekly Sync: syllabus/ai-project/weekly-updates.md
         - Individual Contribution: syllabus/ai-project/individual-contribution.md
     - Schedule: syllabus/schedule.md

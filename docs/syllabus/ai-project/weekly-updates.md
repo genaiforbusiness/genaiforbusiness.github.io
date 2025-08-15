@@ -6,8 +6,6 @@ icon: material/update
 
 ### Objective 🎯
 
-:repeat:
-
 The goal of this weekly assignment is to practice professional project management and communication. This report serves as your team's formal weekly sync, allowing you to reflect on your progress, plan your next steps, and identify any challenges.
 
 This is also your primary channel for communicating your team's status to the instructor. It's a space to celebrate wins, analyze roadblocks, and ask for help. A thoughtful and consistent weekly sync is one of the strongest predictors of a successful final project.
