@@ -8,6 +8,10 @@ icon: material/toy-brick-plus
 
 This deliverable assesses not only your working MVP code but also the **intentionality of your process**. You will demonstrate how your team is executing its governance plan and strategically collaborating with AI tools and prompts to build your application.
 
+### Due Date & Evaluation
+
+* **Due:** See Canvas.
+* **Evaluation:** This deliverable is a major component of your **Group Project** grade. The evaluation is structured to reward both solid, methodical improvement and the implementation of advanced capabilities.
 
 ## Components of the MVP Deliverable
 
