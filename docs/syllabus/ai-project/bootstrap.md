@@ -21,7 +21,7 @@ The goal of this first task is to get your team organized and set up the profess
 ### Due Date & Grading
 
   * **Due:** See Canvas.
-  * **Grading:** This is a **Complete / Incomplete** task worth **2 points** towards your team's grade. To receive full credit, every team member must successfully complete their part.
+  * **Grading:** This is a **Complete / Incomplete** task that's an integral part of your project. To receive a "Complete" grade for this assignment, every team member must successfully complete their part.
 
 -----
 

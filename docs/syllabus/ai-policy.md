@@ -1,5 +1,4 @@
 ---
-# icon: simple/chatbot
 icon: material/file-document-check-outline
 ---
 

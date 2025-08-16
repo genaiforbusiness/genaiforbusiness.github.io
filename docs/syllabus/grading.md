@@ -13,10 +13,10 @@ Your final grade will be calculated out of a total of **100 points**, distribute
 
 | Component | Points | Percentage |
 | :--- | :--- | :--- |
-| Cloud Skills Boost Labs (Individual) | 40 points | 40% |
-| Group Project (Team) | 45 points | 45% |
-| Weekly Check-ins (Team) | 5 points | 5% |
-| Active & Even Contribution (Individual) | 10 points | 10% |
+| [Cloud Skills Boost Labs](#cloud-skills-boost-labs) (Individual) | 40 points | 40% |
+| [Group Project](ai-project/index.md) (Team) | 45 points | 45% |
+| [Launch Kit - Peer Review](ai-project/peer-review.md) (Individual) | 5 points | 5% |
+| [Active & Even Contribution](#individual-project-contribution) (Individual) | 10 points | 10% |
 | **Total** | **100 points** | **100%** |
 
 
@@ -41,19 +41,18 @@ Completing these paths also earns you official Google Cloud badges that you can 
 
 ## Group Project
 
-This is the culminating project where your team will design, build, and present a functional AI application. It is graded holistically using the following rubric:
+This is the culminating project where your team will design, build, and present a functional AI application. See the [project description and rubric](ai-project/index.md) for more details. Review the detailed description of each of the deliverables below.
 
-| Criteria | Exemplary (A-Level) | Proficient (B-Level) | Developing (C-Level) | Unsatisfactory (D/F-Level) |
-| :--- | :--- | :--- | :--- | :--- |
-| **Business Value & Problem Framing**<br/>**(10 Points)** | **10 Points**<br/>Project addresses a well-defined, significant business problem with a compelling value proposition. The solution is thoughtfully tailored to a clearly identified user. The project includes a **thoughtful and realistic roadmap for future features and improvements.** | **8 Points**<br/>Project addresses a relevant business problem and the value proposition is clear. The solution is appropriate for the target user, though the connection could be stronger. | **6 Points**<br/>A business problem is identified, but its significance is unclear, or the AI solution is a weak fit. The target user is defined but the solution is generic. | **0-5 Points**<br/>Project lacks a clear business purpose or solves a trivial problem. The value proposition is missing or confusing. |
-| **Technical Execution & Functionality**<br/>**(15 Points)** | **15 Points**<br/>Application is fully functional, robust, and handles user errors gracefully. The implementation of advanced features (like RAG) is effective and well-integrated. Code is clean, well-organized, and commented. | **13 Points**<br/>Application is functional and meets all core requirements. Advanced features are implemented correctly. There may be minor bugs that don't impede core functionality. Code is organized. | **11 Points**<br/>Application's core functionality works but may be unreliable or have noticeable bugs. Advanced features are attempted but may be poorly implemented or inefficient. Code is disorganized. | **0-7 Points**<br/>Application is non-functional, crashes frequently, or fails to meet core requirements. Code is difficult to understand or run. |
-| **User Experience (UX) & Design**<br/>**(10 Points)** | **10 Points**<br/>The user interface is intuitive, polished, and professional. The user journey is logical and seamless. The chatbot's persona and tone are consistent and well-suited to the application's purpose. | **8 Points**<br/>The user interface is clean and functional. The application is easy to use with minimal instruction. The chatbot's persona is defined but may have minor inconsistencies. | **6 Points**<br/>The user interface is functional but may be confusing or unappealing. The user may struggle with some tasks. The application lacks a clear design or persona. | **0-5 Points**<br/>The user interface is difficult to navigate or non-functional. The user experience is frustrating. No thought was given to design or persona. |
-| **Final Presentation & Demonstration**<br/>**(10 Points)** | **10 Points**<br/>Presentation is clear, concise, and highly professional, effectively communicating the project's value. The live demo is smooth and showcases key strengths. The presentation concludes with a **compelling call to action, identifying key stakeholders and making a case for organizational adoption.** | **8 Points**<br/>Presentation is well-organized and clearly communicates the project's purpose and functionality. The live demo works as intended. The team answers questions effectively. | **6 Points**<br/>Presentation covers the required points but may be disorganized or unclear. The demo has noticeable technical issues or fails to highlight key features. | **0-5 Points**<br/>Presentation is unprofessional, poorly prepared, or fails to communicate the project's purpose. The demo is non-functional or not attempted. |
+<div class="grid cards" markdown>
 
+- :material-numeric-1-box: [__Bootstrap__](ai-project/bootstrap.md) 
+- :material-numeric-2-box: [__Project Charter__](ai-project/charter.md) 
+- :material-numeric-3-box: [__Minimum Viable Product (MVP)__](ai-project/mvp.md) 
+- :material-numeric-4-box: [__Experimentation & Refactoring Report__](ai-project/refactor.md) 
+- :material-numeric-5-box: [__Launch Kit & Team Reflection__](ai-project/launch-kit.md) 
+- :material-numeric-6-box: [__Peer Review__](ai-project/peer-review.md) 
 
-## Weekly Check-ins
-
-To ensure continuous progress, each team must submit a weekly check-in report via GitHub. This component is graded on a complete/incomplete basis. A thoughtful, timely submission each week will earn the full 5 points.
+</div>
 
 
 ## Individual Project Contribution 

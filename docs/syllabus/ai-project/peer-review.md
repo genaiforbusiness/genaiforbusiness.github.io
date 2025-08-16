@@ -9,6 +9,7 @@ icon: octicons/code-review-16
 The goal of this peer review is to practice the essential professional skill of giving and receiving constructive feedback. As you prepare to enter the business world, you will constantly be asked to evaluate the work of your colleagues and, in turn, have your work evaluated by them.
 
 This exercise provides a structured opportunity to:
+
 1.  **Refine your critical eye** by analyzing how other teams approached the same challenge.
 2.  **Learn from your peers** by seeing their unique solutions and communication styles.
 3.  **Practice delivering feedback** that is specific, actionable, and professional.
@@ -20,7 +21,6 @@ This exercise provides a structured opportunity to:
 * **Submission:** You will submit your feedback for each team via Canvas. The feedback will be shared with the reviewed team after grades are finalized.
 * **Grading:** This is an individual task, but you are encouraged to discuss it as a team. Each student who submits two thoughtful reviews will receive **5 points** (on a Complete/Incomplete basis) toward their final course grade.
 
----
 
 ## The Review Framework
 
@@ -50,7 +50,6 @@ For each of the two teams you are assigned, you must review their "Launch Kit" (
     1.  What was the **most helpful instruction or feature** in their guide?
     2.  What **one part of the guide was the most confusing** or could be simplified for a new user?
 
----
 
 ## Rubric
 
