@@ -71,7 +71,7 @@ Use the following template in your `EXPERIMENT_LOG.md` for each of the three exp
 ---
 ```
 
-#### **3. (Optional for "A" Grade) Advanced Feature Implementation**
+### **3. (Optional for "A" Grade) Advanced Feature Implementation**
 
 * **Requirement:** If your team is pursuing the "Advanced Path," your application code must include a functional implementation of one of the following:
     * **Retrieval-Augmented Generation (RAG):** The ability to answer questions from a specific document.
