@@ -1,5 +1,5 @@
 ---
-icon: simple/googlegemini
+icon: material/robot-excited
 ---
 
 # Course Description
