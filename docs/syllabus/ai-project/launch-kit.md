@@ -7,7 +7,7 @@ icon: material/rocket-launch
 
 Your final task is not a traditional presentation. Instead, your team will create a professional **"launch kit"** for your proof-of-concept, designed to attract new users and convince stakeholders of your project's value. This is your chance to showcase your work in a format that mirrors a real-world product launch.
 
-This will be followed by a **reflective team interview** with the instructor to synthesize your learning and critically examine your journey through the course.
+This will be followed by a **reflective team interview** to synthesize your learning and critically examine your journey through the course.
 
 ## Due Date & Evaluation
 
@@ -48,10 +48,30 @@ Giving and receiving professional, constructive feedback is a critical skill.
 
 ### The Reflective Team Interview 🧠
 
-This is a **20-minute scheduled meeting** with the instructor during finals week. This is not a defense of your project, but a structured, collaborative conversation to reflect on your team's learning journey.
+This is a **15-minute in-class round table discussion**. This is not a defense of your project, but a structured, collaborative conversation to reflect on your team's learning journey.
 
 * **Purpose:** The goal is to foster self-reflection. We'll discuss your team's process, how your perspectives on AI have evolved, and whether AI ultimately helped or hindered your critical thinking and learning.
-* **Preparation:** Your team will be provided with the interview questions in advance to help you prepare for a thoughtful discussion.
+* **Preparation:** Your team will be provided with the interview questions in advance to help you prepare for a thoughtful discussion (See examples below).
+
+!!! example "Interview Questions :question:"
+
+    **On Process & Collaboration**
+
+    * Looking back at your `GOVERNANCE.md` from your project charter, which part of your planned process was most successful in practice, and which part broke down first? Why?
+    * Describe a specific moment where using an AI tool as a collaborator (like GitHub Copilot or a process prompt) significantly changed your team's direction or saved you a huge amount of time.
+    * What was the most challenging aspect of managing an AI project compared to a traditional software project?
+
+    **On Technical & Conceptual Understanding**
+
+    * What is one major misconception you had about Generative AI at the start of the course that has now changed?
+    * If you had to explain the concept of Retrieval-Augmented Generation (RAG) to a non-technical manager in 30 seconds, how would you do it now?
+    * Beyond your own project, what do you now understand about the limitations of current LLMs that you didn't appreciate before?
+
+    **On Critical Thinking & Future Outlook**
+
+    * Where did your team find the line between using AI as an effective tool and letting it hinder your own problem-solving or critical thinking? Can you give a specific example?
+    * After building your own AI application, what are you most optimistic about regarding AI's future in business? What are you most concerned about?
+    * What's one piece of advice you would give to a new team just starting this course and project?
 
 !!! hint "The Personal Journal 📓"
 

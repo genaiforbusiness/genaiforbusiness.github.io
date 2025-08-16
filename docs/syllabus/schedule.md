@@ -56,7 +56,7 @@ This schedule is designed around a weekly rhythm. The first session of the week 
     
     **Deliverables:**  
 
-    - placeholder
+    - [Project Charter](ai-project/charter.md)
 
     **Resources:**
 
@@ -83,7 +83,7 @@ This schedule is designed around a weekly rhythm. The first session of the week 
     
     **Deliverables:**  
 
-    - placeholder
+    - [Minimum Viable Product (MVP)](ai-project/mvp.md)
 
     **Resources:**
 
@@ -106,7 +106,7 @@ This schedule is designed around a weekly rhythm. The first session of the week 
     
     **Deliverables:**  
 
-    - placeholder
+    - [Experimentation & Refactoring](ai-project/refactor.md)
 
     **Resources:**
 
@@ -120,8 +120,8 @@ This schedule is designed around a weekly rhythm. The first session of the week 
     | 11/20 | 🛠️ Agents in Action |
     | 11/25 | ==Thanksgiving Recess== |
     | 11/27 | ==Thanksgiving Recess== |
-    | 12/02 | 🧠 Project Retrospective & Social Learning|
-    | 12/04 | 🛠️ Presentation, Peer Review, & Course Wrap-Up | 
+    | 12/02 | 🧠 Team Reflection  & Interviews|
+    | 12/04 | 🛠️ Launch Kit Peer Review, & Course Wrap-Up | 
     | 12/09 | ==Finals Week== |
     | 12/11 | ==Finals Week== |
 
@@ -133,7 +133,9 @@ This schedule is designed around a weekly rhythm. The first session of the week 
     
     **Deliverables:**  
 
-    - placeholder
+    - [Launch Kit](ai-project/launch-kit.md)
+    - [Peer Review](ai-project/peer-review.md)
+
 
     **Resources:**
 
