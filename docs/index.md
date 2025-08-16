@@ -53,8 +53,6 @@ hide:
 
     [:octicons-arrow-right-24: AI Project Description](syllabus/ai-project/index.md)
 
-    [:octicons-arrow-right-24: Project Guide](syllabus/ai-project/guide.md)
-
     [:octicons-arrow-right-24: Canvas Assignment Page](https://canvas.pitt.edu/courses/320955)
 
 -   :octicons-beaker-24:{ .lg .middle } __Tools__
