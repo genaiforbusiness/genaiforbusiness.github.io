@@ -66,8 +66,8 @@ This schedule is designed around a weekly rhythm. The first session of the week 
 
     | Date  | Topic |
     | :---- | :---- |
-    | 09/23 | 🛠️ Working with System Instructions, Variables & Templates |
-    | 09/25 | 🧠 Anatomy of a Prompt & Basic Prompting |
+    | 09/23 | 🧠 Anatomy of a Prompt & Basic Prompting |
+    | 09/25 | 🛠️ Working with System Instructions, Variables & Templates |
     | 09/30 | 🧠 Prompting Strategies |
     | 10/02 | 🛠️ Working with Prompt Structure, Reasoning, and Model Parameters|
     | 10/07 | 🧠 AI Safety & Ethics in Prompting |
