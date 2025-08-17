@@ -42,8 +42,8 @@ This is a practical, user-facing document. It should enable a brand-new user to 
 
 Giving and receiving professional, constructive feedback is a critical skill.
 
-* **Process:** During finals week, each team will be assigned two other teams' "launch kits" to review. You will watch their video, read their quick-start guide, and use a provided rubric to offer feedback on the clarity, persuasiveness, and professionalism of their work.
-* **Grading:** Thoughtful completion of the peer review process is a component of your individual participation grade.
+* **Process:** During the closing week of the course, each student will be assigned two other teams' "launch kits" to review. You will watch their video, read their quick-start guide, and use a provided rubric to offer feedback on the clarity, persuasiveness, and professionalism of their work.
+* **Grading:** Thoughtful completion of the peer review process is a component worth 5 points of your final grade.
 
 
 ### The Reflective Team Interview 🧠

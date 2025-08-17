@@ -27,73 +27,81 @@ The goal of this first task is to get your team organized and set up the profess
 
 ### Step-by-Step Instructions
 
-#### **Step 1: Form Your Team**
+#### **:material-numeric-1-circle: Form Your Team**
 
 Decide on your project team of 3-4 members. Once your team is formed, designate one person to be the "Repo Lead" for the initial setup.
 
-#### **Step 2: Create the Repository from Template (Repo Lead's Task)**
+#### **:material-numeric-2-circle: Create the Repository**
 
-The Repo Lead will create the shared project space by using a course template.
+!!! tip "Repo Lead's Task"
 
-1.  **Navigate to the Template:** Go to the template repository at [https://github.com/genaiforbusiness/chatbox](https://github.com/genaiforbusiness/chatbox).
-2.  **Use the Template:** Click the green "**Use this template**" button and select "**Create a new repository**".
-3.  **Configure Your New Repository:**
-      * **Owner:** Ensure the repository is owned by your personal GitHub account.
-      * **Repository name:** Use the format `ai-poc-team-<your-team-name>` (e.g., `ai-poc-team-innovators`).
-      * **Visibility:** You **must** select **Private**. This is a critical step.
-      * Click "**Create repository**".
-4.  **Add Collaborators:** Add Collaborators: In your newly created repository, go to Settings > Collaborators and teams. You must add two types of collaborators:
-    - **Your Teammates**: Click "Add people" and add each of your teammates using their GitHub username.
-    - **The Instructor**: You must also add the instructor so your work can be viewed and graded. The instructor's GitHub username is `midhubalan`.
+    The Repo Lead will create the shared project space by using a course template.
 
-Your teammates and the instructor will need to accept the email invitation to gain access. This step is critical for grading.
+    1.  **Navigate to the Template:** Go to the template repository at [https://github.com/genaiforbusiness/chatbox](https://github.com/genaiforbusiness/chatbox).
+    2.  **Use the Template:** Click the green "**Use this template**" button and select "**Create a new repository**".
+    3.  **Configure Your New Repository:**
+          * **Owner:** Ensure the repository is owned by your personal GitHub account.
+          * **Repository name:** Use the format `ai-poc-team-<your-team-name>` (e.g., `ai-poc-team-innovators`).
+          * **Visibility:** You **must** select **Private**. This is a critical step.
+          * Click "**Create repository**".
+    4.  **Add Collaborators:** Add Collaborators: In your newly created repository, go to Settings > Collaborators and teams. You must add two types of collaborators:
+        - **Your Teammates**: Click "Add people" and add each of your teammates using their GitHub username.
+        - **The Instructor**: You must also add the instructor so your work can be viewed and graded. The instructor's GitHub username is `midhubalan`.
 
-#### **Step 3: Clone the Repository (Everyone's Task)**
+    Your teammates and the instructor will need to accept the email invitation to gain access. This step is critical for grading.
 
-Now, each team member needs to create a local copy of the project on their computer (or in their Codespace).
+#### **:material-numeric-3-circle: Clone the Repository**
 
-1.  Navigate to the main page of the **team's new repository** (not the template).
-2.  Click the green "**<\> Code**" button.
-3.  Copy the URL provided (use the HTTPS option).
-4.  Open a terminal or command prompt and run the following command:
-    ```bash
-    git clone <paste-the-repository-url-here>
-    ```
+!!! warning "Clone the Repository: Everyone's Task"
 
-#### **Step 4: Create Your Profile Page (Everyone's Task)**
+    Now, each team member needs to create a local copy of the project on their computer (or in their Codespace).
 
-This is your first individual contribution to the project.
+    1.  Navigate to the main page of the **team's new repository** (not the template).
+    2.  Click the green "**<\> Code**" button.
+    3.  Copy the URL provided (use the HTTPS option).
+    4.  Open a terminal or command prompt and run the following command:
+        ```bash
+        git clone <paste-the-repository-url-here>
+        ```
 
-1.  Navigate into the new project folder you just cloned.
-2.  Create a new file. The filename **must be** your exact GitHub username followed by `.md`. For example, if your username is `j-doe`, the file must be named `j-doe.md`.
-3.  Open the file and add the following information using Markdown formatting:
-    ```markdown
-    # [Your Name]
+#### **:material-numeric-4-circle: Create Your Profile Page**
 
-    **Major:** [Your Major]
+!!! warning "Create Profile: Everyone's Task"
 
-    **What I want to learn in this course:** [A brief sentence about your goals]
+    This is your first individual contribution to the project.
 
-    **A fun fact about me:** [Something interesting!]
-    ```
-4.  Save the file.
+    1.  Navigate into the new project folder you just cloned.
+    2.  Create a new file. The filename **must be** your exact GitHub username followed by `.md`. For example, if your username is `j-doe`, the file must be named `j-doe.md`.
+    3.  Open the file and add the following information using Markdown formatting:
+        ```markdown
+        # [Your Name]
 
-#### **Step 5: Commit and Push Your Changes (Everyone's Task)**
+        **Major:** [Your Major]
 
-Finally, you will save your new file to the shared repository on GitHub using a three-step command-line process.
+        **What I want to learn in this course:** [A brief sentence about your goals]
 
-1.  **Add the file:** Tell Git to track your new file.
-    ```bash
-    git add <your-github-username>.md
-    ```
-2.  **Commit the file:** Save a snapshot of your changes with a descriptive message.
-    ```bash
-    git commit -m "feat: Add profile for <your-github-username>"
-    ```
-3.  **Push the file:** Send your saved changes up to the shared GitHub repository.
-    ```bash
-    git push
-    ```
+        **A fun fact about me:** [Something interesting!]
+        ```
+    4.  Save the file.
+
+#### **:material-numeric-5-circle: Commit and Push Your Changes.**
+
+!!! warning "Commit and Push: Everyone's Task"
+
+    Finally, you will save your new file to the shared repository on GitHub using a three-step command-line process.
+
+    1.  **Add the file:** Tell Git to track your new file.
+        ```bash
+        git add <your-github-username>.md
+        ```
+    2.  **Commit the file:** Save a snapshot of your changes with a descriptive message.
+        ```bash
+        git commit -m "feat: Add profile for <your-github-username>"
+        ```
+    3.  **Push the file:** Send your saved changes up to the shared GitHub repository.
+        ```bash
+        git push
+        ```
 
 -----
 
