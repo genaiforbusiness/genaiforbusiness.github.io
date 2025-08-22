@@ -59,13 +59,16 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Google AI Studio](https://aistudio.google.com/)
+    [:octicons-arrow-right-24: Tools & Setup](syllabus/tools.md)
 
-    [:octicons-arrow-right-24: GitHub Codespaces](https://docs.github.com/en/codespaces)
 
 -   :material-gold:{ .lg .middle } __Resources and References__
 
     ---
+
+    [:octicons-arrow-right-24: GitHub Codespaces](https://docs.github.com/en/codespaces)
+
+    [:octicons-arrow-right-24: Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
 
 
 

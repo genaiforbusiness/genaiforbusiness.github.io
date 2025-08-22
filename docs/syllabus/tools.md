@@ -95,7 +95,7 @@ Now, we will securely store your key in your project's primary development envir
 Finally, we will configure the environment used for our individual labs.
 
 1.  **Understand Colab Secrets:** First, read the official Colab documentation on its [Secrets feature](https://colab.research.google.com/notebooks/relnotes.ipynb#scrollTo=eaf6a2fc&line=1&uniqifier=1).
-2.  **Open the Test Notebook:** Open the [`gemini.ipynb`](https://colab.research.google.com/github/genaiforbusiness/code-samples/blob/main/gemini.ipynb). 
+2.  **Open the Test Notebook:** Open the [`gemini.ipynb`](https://colab.research.google.com/github/genaiforbusiness/code-samples/blob/main/gemini.ipynb) in Colab. 
 3.  **Store the Secret:** In the notebook's side panel, click the **key icon (🔑)** to open the "Secrets" tab. Create a new secret with the name `GOOGLE_API_KEY` and paste your API key as the value. Ensure notebook access is enabled.
 4.  **Run the Cells:** Execute the pre-populated code cells in the notebook. A successful run will confirm your Colab environment is also correctly configured.
 

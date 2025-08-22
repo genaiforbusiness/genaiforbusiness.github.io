@@ -17,13 +17,12 @@ This schedule is designed around a weekly rhythm. The first session of the week 
     | Date  | Topic |
     | :---- | :---- |
     | 08/26 | 🧠 [Course Overview](course-description.md) & [Project Introduction](ai-project/index.md) |
-    | 08/28 | 🛠️ Tools Overview & Dry Run |
+    | 08/28 | 🛠️ [Tools Overview & Dry Run](tools.md) |
 
     **Pre-class Activities:**
 
     - Read and understand [course details](https://genaiforbusiness.github.io/syllabus/)
     - Sign up for a [GitHub](https://github.com/signup) account.
-    - Get a [Gemini API Key](https://aistudio.google.com/apikey).
 
     **Deliverables:**  
 
