@@ -16,7 +16,7 @@ This schedule is designed around a weekly rhythm. The first session of the week 
 
     | Date  | Topic |
     | :---- | :---- |
-    | 08/26 | 🧠 Course Overview & Project Introduction |
+    | 08/26 | 🧠 [Course Overview](course-description.md) & [Project Introduction](ai-project/index.md) |
     | 08/28 | 🛠️ Tools Overview & Dry Run |
 
     **Pre-class Activities:**

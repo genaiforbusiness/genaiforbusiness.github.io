@@ -21,7 +21,7 @@ hide:
 !!! info "Schedule & Instructor"  
 
     - __Meeting Times:__ Tuesdays & Thursdays 3:30-4:45pm 
-    - __Meeting Location:__ 118E Mervis Hall
+    - __Meeting Location:__ 118D Mervis Hall
     - __Instructor:__ [Midhu Balan](mailto:midhu.balan@pitt.edu)
     - __Office Hours:__ Tuesdays & Thursdays 12:00-2:00pm. Mervis Hall 315
     {.card}
