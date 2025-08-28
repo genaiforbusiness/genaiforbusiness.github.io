@@ -59,7 +59,12 @@ This schedule is designed around a weekly rhythm. The first session of the week 
 
     **Resources:**
 
-    - placeholder
+    - [First Day on GitHub](https://skills.github.com/#first-day-on-github)
+    - [First Week on GitHub](https://skills.github.com/#first-week-on-github)
+    - Project Governance Samples
+        - [Project Front Office](https://google-gemini.github.io/gemini-cli/)
+        - [Feature Roadmap](https://github.com/orgs/google-gemini/projects/11/views/12)
+        - [Team Discussion](https://github.com/google-gemini/gemini-cli/discussions)
 
 === "Prompt Design"
 
