@@ -51,7 +51,11 @@ This schedule is designed around a weekly rhythm. The first session of the week 
 
     **Pre-class Activities:**
 
-    - placeholder
+    - Large Language Models (LLMs) & Model Capabilities
+        - [KaggleWhite Paper: Foundational Large Language Models & Text Generation](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation){:target="_blank}
+        - [Whitepaper Companion Podcast](https://www.youtube.com/watch?v=Na3O4Pkbp-U){:target="_blank}
+        - [Behind the scenes of Google's state-of-the-art "nano-banana" image model](https://www.youtube.com/watch?v=H6ZXujE1qBA){:target="_blank}
+
     
     **Deliverables:**  
 
