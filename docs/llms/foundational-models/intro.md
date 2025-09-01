@@ -5,7 +5,7 @@ icon: material/numeric-1
 
 # What is an LLM and How Does It "Think"?
 
-**Objective:** To establish a practical, non-technical mental model of a Large Language Model (LLM). By the end of this module, you will be able to define what a model is, explain the leap from simple statistical models to LLMs, and understand the core business value proposition of Generative AI.
+**Objective:** To establish a practical, non-technical mental model of a Large Language Model (LLM). By the end of this introduction, you will be able to define what a model is, explain the leap from simple statistical models to LLMs, and understand the core business value proposition of Generative AI.
 
 
 ## Let's Start with a Familiar Model
