@@ -85,7 +85,7 @@ This same core concept of matching meaning via embeddings is the engine for even
 
 
 <figure markdown="span">
-  [![Gemini Robotics: Bringing AI to the physical world](http://img.youtube.com/vi/4MvGnmmP3c0/0.jpg){ width="300" }](https://www.youtube.com/watch?v=4MvGnmmP3c0)
+  [![Gemini Robotics: Bringing AI to the physical world](http://img.youtube.com/vi/4MvGnmmP3c0/0.jpg)](https://www.youtube.com/watch?v=4MvGnmmP3c0)
   <figcaption>Video: Gemini Robotics - Bringing AI to the physical world</figcaption>
 </figure>
 
