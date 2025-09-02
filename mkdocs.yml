@@ -143,7 +143,6 @@ nav:
       - Model Architecture: llms/foundational-models/architecture.md
       - Embeddings: llms/foundational-models/embeddings.md
       - Model Development Process: llms/foundational-models/model-development.md
-      - Model Capabilities: llms/foundational-models/training-tuning.md
       - Model Alignment: llms/foundational-models/reward-model.md
       - Try It Yourself: llms/foundational-models/activity.md
       - Conclusion & Next Steps: llms/foundational-models/next-steps.md

@@ -1,5 +1,5 @@
 ---
-icon: material/numeric-8
+icon: material/numeric-7
 ---
 
 # Conclusion & Next Steps

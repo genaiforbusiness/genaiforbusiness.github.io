@@ -1,5 +1,5 @@
 ---
-icon: material/numeric-7
+icon: material/numeric-6
 ---
 
 # Try It Yourself
