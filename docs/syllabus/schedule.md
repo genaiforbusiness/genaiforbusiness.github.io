@@ -41,7 +41,7 @@ This schedule is designed around a weekly rhythm. The first session of the week 
 
     | Date  | Topic |
     | :---- | :---- |
-    | 09/02 | 🧠 Large Language Models (LLMs) & Model Capabilities |
+    | 09/02 | [🧠 Large Language Models (LLMs) & Model Capabilities](../llms/foundational-models/index.md) |
     | 09/04 | 🛠️ Mapping Project Tasks to Model Use & Capabilities |
     | 09/09 | 🧠 Tokens, Context Windows, & Reading Model Cards |
     | 09/11 | 🛠️ Problem Framing & Translating Business Needs to User Stories |
