@@ -137,6 +137,15 @@ nav:
     - Teaching Philosophy: syllabus/teaching-philosophy.md
   - Generative AI & LLMs:
     - llms/index.md
+    - Models & Capabilities:
+      - llms/foundational-models/index.md
+      - Introduction to LLMs: llms/foundational-models/intro.md
+      - Model Architecture: llms/foundational-models/architecture.md
+      - Embeddings: llms/foundational-models/embeddings.md
+      - Model Development: llms/foundational-models/model-development.md
+      - Model Alignment: llms/foundational-models/reward-model.md
+      - Try It Yourself: llms/foundational-models/activity.md
+      - Conclusion & Next Steps: llms/foundational-models/next-steps.md
   - Prompt Design:
     - prompts/index.md
   - Context Engineering:
