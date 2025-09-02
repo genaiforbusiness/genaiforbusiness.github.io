@@ -14,7 +14,20 @@ icon: material/numeric-4
     The reason for understanding the model development process is not purely technical. This knowledge should enable you to analyze the competitive landscape of the AI market by understanding the strategic business implications of each stage of model development. 
 
 
-**Introduction: From General Knowledge to Specialized Skills**
+## Training vs. Inference
+
+Before we dive into the different stages of how a model is built, it's important to understand the two fundamental states of any machine learning model: **training** and **inference**.
+
+1.  **Training (The "Learning" Phase):**
+    This is the process of teaching the model by modifying its parameters. Using massive datasets and complex algorithms, the model's billions of internal "knobs" are adjusted until it gets good at its objective (e.g., predicting the next word). All the stages we will discuss in this module—pre-training, supervised fine-tuning, and safety tuning—are part of this learning phase.
+
+2.  **Inference (The "Performance" Phase):**
+    This is when the model is actively used to generate a predicted output. During inference, the model's parameters are fixed; it is no longer learning. It is simply applying the knowledge it has already gained during training to respond to your prompt. When you use ChatGPT or Gemini, you are interacting with the model in its inference state.
+
+This module will focus almost exclusively on the different stages of the **training** process, as this is where a model's capabilities, behaviors, and competitive advantages are forged.
+
+## Introduction
+**From General Knowledge to Specialized Skills**
 
 We now know what an LLM is (a prediction engine), what its blueprint looks like (the Transformer), and how it understands data (through embeddings). But this doesn't explain how a model goes from being a general repository of internet text to a specialized assistant that can follow your specific instructions.
 
