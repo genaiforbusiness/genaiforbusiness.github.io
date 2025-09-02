@@ -11,25 +11,25 @@ hide:
 
 <div class="grid cards" markdown>
 
--   [:material-file-tree:{ .lg .middle } __Concept Map__](#)
+-   [:octicons-ai-model-24:{ .lg .middle } __Foundational Models__](foundational-models/index.md)
 
     ---
 
-    [:octicons-arrow-right-24: Getting started](#)
+    [:octicons-arrow-right-24: Introduction to Foundational Models](foundational-models/intro.md)
 
 
--   [:simple-notebooklm:{ .lg .middle } __NotebookLM Lab__](#)
-
-    ---
-
-    [:octicons-arrow-right-24: Getting Started with NotebookLM](#)
-
-
--   [:simple-googlegemini:{ .lg .middle } __Google Gemini__](#)
+-   [:material-tools:{ .lg .middle } __Working with Models__](#)
 
     ---
 
-    [:octicons-arrow-right-24: Getting started with Gemini](#)
+    [:octicons-arrow-right-24: Working with Models](#)
+
+
+-   [:octicons-diff-added-16:{ .lg .middle } __Extending Foundational Models__](#)
+
+    ---
+
+    [:octicons-arrow-right-24: Extending Foundational Models](#)
 
 
 </div>
