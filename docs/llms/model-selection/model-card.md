@@ -1,5 +1,6 @@
 ---
-icon: material/card-bulleted-outline
+# icon: material/card-bulleted-outline
+icon: material/numeric-1
 ---
 # Model Card
 

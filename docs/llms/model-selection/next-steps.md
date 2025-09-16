@@ -1,5 +1,6 @@
 ---
-icon: material/foot-print
+# icon: material/foot-print
+icon: material/numeric-5
 ---
 
 In this session, we've moved beyond the hype of AI capabilities to the practical reality of business due diligence. You've learned that a model card is not just a technical document, but a critical tool for risk management, strategic planning, and competitive intelligence. We've established a robust framework—balancing **Performance, Cost, and Risk**—to guide your evaluation of any AI model and turn a complex technical analysis into a defensible business decision.

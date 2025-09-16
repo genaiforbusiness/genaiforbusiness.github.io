@@ -45,7 +45,7 @@ This schedule is designed around a weekly rhythm. The first session of the week 
     | 09/04 | 🛠️ Mapping Project Tasks to Model Use & Capabilities |
     | 09/09 | [🧠 Model Selection & Business Alignment](../llms/model-selection/index.md) |
     | 09/11 | 🛠️ Problem Framing & Translating Business Needs to User Stories |
-    | 09/16 | 🧠 Embeddings, Fine-Tuning Concepts, & Model Configuration |
+    | 09/16 | 🧠 [Embedding Models & Their Business Relevance](../llms/embedding/index.md)|
     | 09/18 | 🛠️ Developing Project Governance and Delivery Framework Using AI Tools |
 
 

@@ -1,5 +1,6 @@
 ---
-icon: material/map-outline
+# icon: material/map-outline
+icon: material/numeric-2
 ---
 
 # A Guided Tour of a Model Card

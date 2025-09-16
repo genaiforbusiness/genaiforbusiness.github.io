@@ -155,7 +155,6 @@ nav:
       - Conclusion & Next Steps: llms/model-selection/next-steps.md
     - Embedding Models:
       - llms/embedding/index.md
-      - Outline: llms/embedding/outline.md
       - Introduction to Embedding: llms/embedding/intro.md
       - A GPS for Meaning: llms/embedding/coordinates.md
       - Embedding Benchmark: llms/embedding/benchmark.md

@@ -39,7 +39,7 @@ This "semantic proximity" is the key. It allows us to use simple mathematical ca
 
 <!-- **(Placeholder for a visual diagram: A 2D or 3D representation of a vector space. It would show clusters of related terms like "billing," "invoice," and "payment" grouped together, while other terms like "shipping," "logistics," and "delivery" form another distinct cluster. A user query "questions about my bill" would be shown as a point closer to the first cluster.)** -->
 
-![Vector Space](/assets/images/vector-space.png){width=500}
+![Vector Space](../../assets/images/vector-space.png){width=500}
 
 ### The Embedding Model's Role
 **The Cartographer of Meaning**

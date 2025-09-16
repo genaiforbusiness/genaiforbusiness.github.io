@@ -1,5 +1,6 @@
 ---
-icon: material/format-align-middle
+# icon: material/format-align-middle
+icon: material/numeric-3
 ---
 
 # Aligning Model Choice with Business Needs
