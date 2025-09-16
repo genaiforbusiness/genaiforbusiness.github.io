@@ -17,6 +17,7 @@ hide:
 - [ :material-numeric-3:{ .lg .middle } __Embeddings Benchmark__](benchmark.md) 
 - [ :material-numeric-4:{ .lg .middle } __Business Value of Embedding Models__](business-value.md) 
 - [ :material-numeric-5:{ .lg .middle } __Business Trade-Offs__](tradeoffs.md)  
-- [ :material-numeric-6:{ .lg .middle } __Next Steps__](next-steps.md) 
+- [ :material-numeric-6:{ .lg .middle } __Activity__](activity.md)
+- [ :material-numeric-7:{ .lg .middle } __Next Steps__](next-steps.md) 
 
 </div>
