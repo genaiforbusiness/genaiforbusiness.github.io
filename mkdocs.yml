@@ -159,6 +159,9 @@ nav:
       - Introduction to Embedding: llms/embedding/intro.md
       - A GPS for Meaning: llms/embedding/coordinates.md
       - Embedding Benchmark: llms/embedding/benchmark.md
+      - Business Value: llms/embedding/business-value.md
+      - Tradeoffs: llms/embedding/tradeoffs.md
+      - Conclusion & Next Steps: llms/embedding/next-steps.md
 
   - Prompt Design:
     - prompts/index.md
