@@ -160,6 +160,7 @@ nav:
       - Embedding Benchmark: llms/embedding/benchmark.md
       - Business Value: llms/embedding/business-value.md
       - Tradeoffs: llms/embedding/tradeoffs.md
+      - Try It Yourself: llms/embedding/activity.md
       - Conclusion & Next Steps: llms/embedding/next-steps.md
 
   - Prompt Design:

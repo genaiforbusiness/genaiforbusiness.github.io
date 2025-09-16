@@ -29,7 +29,7 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Extending Foundational Models](embedding/index.md)
+    [:octicons-arrow-right-24: Introduction to Embedding Models](embedding/intro.md)
 
 
 </div>
