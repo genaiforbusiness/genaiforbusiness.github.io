@@ -25,11 +25,11 @@ hide:
     [:octicons-arrow-right-24: Introduction to Model Cards](model-selection/index.md)
 
 
--   [:octicons-diff-added-16:{ .lg .middle } __Extending Foundational Models__](#)
+-   [:octicons-diff-added-16:{ .lg .middle } __Embedding Models__](embedding/index.md)
 
     ---
 
-    [:octicons-arrow-right-24: Extending Foundational Models](#)
+    [:octicons-arrow-right-24: Extending Foundational Models](embedding/index.md)
 
 
 </div>

@@ -153,6 +153,13 @@ nav:
       - Model Choice & Business Alignment: llms/model-selection/align-model-choice.md
       - "Model Choice: Hands-on Activity": llms/model-selection/activity.md
       - Conclusion & Next Steps: llms/model-selection/next-steps.md
+    - Embedding Models:
+      - llms/embedding/index.md
+      - Outline: llms/embedding/outline.md
+      - Introduction to Embedding: llms/embedding/intro.md
+      - A GPS for Meaning: llms/embedding/coordinates.md
+      - Embedding Benchmark: llms/embedding/benchmark.md
+
   - Prompt Design:
     - prompts/index.md
   - Context Engineering:
