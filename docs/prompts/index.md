@@ -15,21 +15,14 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Introduction to Foundational Models](foundational-models/intro.md)
+    [:octicons-arrow-right-24: Introduction to Prompting](anatomy/intro.md)
 
 
 -   [:material-tools:{ .lg .middle } __Prompting Techniques & Strategies__](techniques/index.md)
 
     ---
 
-    [:octicons-arrow-right-24: Introduction to Model Cards](model-selection/index.md)
-
-
--   [:octicons-diff-added-16:{ .lg .middle } __Embedding Models__](embedding/index.md)
-
-    ---
-
-    [:octicons-arrow-right-24: Introduction to Embedding Models](embedding/intro.md)
+    [:octicons-arrow-right-24: Introduction to Prompting Techniques](techniques/index.md)
 
 
 </div>

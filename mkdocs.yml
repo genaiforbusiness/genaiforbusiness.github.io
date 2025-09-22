@@ -167,6 +167,9 @@ nav:
     - Anatomy of a Prompt: 
       - prompts/anatomy/index.md
       - Introduction to Prompt Engineering: prompts/anatomy/intro.md
+      - Prompt's Control Panel: prompts/anatomy/config.md
+      - Conclusion & Next Steps: prompts/anatomy/next-steps.md
+
     - Prompting Techniques:
       - prompts/techniques/index.md
     - AI Safety & Ethics:
