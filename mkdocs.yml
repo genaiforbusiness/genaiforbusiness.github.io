@@ -162,9 +162,19 @@ nav:
       - Tradeoffs: llms/embedding/tradeoffs.md
       - Try It Yourself: llms/embedding/activity.md
       - Conclusion & Next Steps: llms/embedding/next-steps.md
-
   - Prompt Design:
     - prompts/index.md
+    - Anatomy of a Prompt: 
+      - prompts/anatomy/index.md
+      - Introduction to Prompt Engineering: prompts/anatomy/intro.md
+    - Prompting Techniques:
+      - prompts/techniques/index.md
+    - AI Safety & Ethics:
+      - prompts/safety-ethics/index.md
+    - Tapping Model Capabilities:
+      - prompts/capabilities/index.md
+    - Prompt Workflow:
+      - prompts/workflow/index.md
   - Context Engineering:
     - contexts/index.md
   - Agents:

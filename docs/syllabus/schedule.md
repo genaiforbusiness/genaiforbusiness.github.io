@@ -74,20 +74,24 @@ This schedule is designed around a weekly rhythm. The first session of the week 
 
     | Date  | Topic |
     | :---- | :---- |
-    | 09/23 | 🧠 Anatomy of a Prompt & Basic Prompting |
+    | 09/23 | 🧠 [Anatomy of a Prompt & Basic Prompting](../prompts/anatomy/index.md) |
     | 09/25 | 🛠️ Working with System Instructions, Variables & Templates |
-    | 09/30 | 🧠 Prompting Strategies |
+    | 09/30 | 🧠 [Prompting Strategies](../prompts/techniques/index.md) |
     | 10/02 | 🛠️ Working with Prompt Structure, Reasoning, and Model Parameters|
-    | 10/07 | 🧠 AI Safety & Ethics in Prompting |
+    | 10/07 | 🧠 [AI Safety & Ethics in Prompting](../prompts/safety-ethics/index.md) |
     | 10/09 | 🛠️ Implementing Responsible AI Practices |
-    | 10/14 | 🧠 Aligning Prompt Design with Model Capabilities |
+    | 10/14 | 🧠 [Aligning Prompt Design with Model Capabilities](../prompts/capabilities/index.md) |
     | 10/16 | 🛠️ Working with Thinking, Grounding, Structured Outputs, and Function Calling |
-    | 10/21 | 🧠 Prompt Development Workflow: Explore, Evaluate, and Iterate |
+    | 10/21 | 🧠 [Prompt Development Workflow: Explore, Evaluate, and Iterate](../prompts/workflow/index.md) |
     | 10/23 | 🛠️ Implementing Iterative Prompting Techniques |
    
     **Pre-class Activities:**
 
-    - placeholder
+    Kaggle on Prompt Engineering
+
+    - [Prompt Engineering - Kaggle Whitepaper](https://www.kaggle.com/whitepaper-prompt-engineering)
+    - [Whitepaper Companion Podcast - Prompt Engineering ](https://www.youtube.com/watch?v=CFtX0ZyLSAY)
+    - [Prompting Fundamentals - Kaggle Notebook](https://www.kaggle.com/code/markishere/day-1-prompting)
     
     **Deliverables:**  
 
@@ -95,7 +99,11 @@ This schedule is designed around a weekly rhythm. The first session of the week 
 
     **Resources:**
 
-    - placeholder
+    - [Prompt design strategies](https://ai.google.dev/gemini-api/docs/prompting-strategies)
+    - [Prompting Guide](https://www.promptingguide.ai/)
+    - [Prompting for Image Generation](https://ai.google.dev/gemini-api/docs/image-generation#prompt-guide)
+    - [Prompt Examples Demonstrating Image Editing & Generation](https://blog.google/products/gemini/gemini-nano-banana-examples/)
+    - [Prompt Examples Demonstrating Video Generation Using Images](https://blog.google/products/gemini/gemini-photo-to-video-tips/)
 
 === "Context Engineering"
 
