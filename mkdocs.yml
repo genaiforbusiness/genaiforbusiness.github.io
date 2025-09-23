@@ -168,6 +168,7 @@ nav:
       - prompts/anatomy/index.md
       - Introduction to Prompt Engineering: prompts/anatomy/intro.md
       - Prompt's Control Panel: prompts/anatomy/config.md
+      - Hands-on Lab : prompts/anatomy/activity.md
       - Conclusion & Next Steps: prompts/anatomy/next-steps.md
 
     - Prompting Techniques:
