@@ -5,9 +5,9 @@ icon: material/numeric-3
 
 # Hands-On Lab in Google AI Studio
 
-In the previous sections, we've discussed the theory behind crafting a great prompt and the control panel that tunes the AI's response. Now, you'll get to apply that knowledge directly.
+Welcome to the hands-on portion of our lesson. You've learned the theory behind crafting prompts and tuning the model's "control panel." Now, you'll apply that knowledge in a side-by-side testing environment to see the immediate impact of your choices.
 
-### 🎯 Lab Objectives
+## 🎯 Lab Objectives
 
 By the end of this lab, you will be able to:
 
@@ -19,15 +19,17 @@ By the end of this lab, you will be able to:
 
 1.  In a new browser tab, open [Google AI Studio](https://aistudio.google.com/) and sign in.
 2.  Create a new, empty prompt by clicking the **+ New prompt** button.
-3.  You should now see the workspace we reviewed in the previous section. You are ready to begin.
+3.  At the top of the screen, click the **Compare mode** button. This will open a side-by-side interface, which is the perfect environment for testing and iterating on your prompts.
 
------
+<figure markdown="span">
+  ![Invoking Google AI Studio COmpare Mode](../../assets/images/compare-mode-toggle.png){ width="800" }
+  <figcaption>Invoking Google AI Studio COmpare Mode</figcaption>
+</figure>
 
 ### The Scenario ✈️
 
 For today's exercises, you are a **Product Manager for a new AI-powered travel planning app**. Your team is relying on you to develop the prompts that will generate the in-app content for users. Your goal is to create content that is not only accurate but also perfectly aligned with the app's brand and the user's needs.
 
------
 
 ### Exercise 1: Tuning the Creativity Dial (Temperature)
 
@@ -35,30 +37,28 @@ For today's exercises, you are a **Product Manager for a new AI-powered travel p
 
 #### Instructions
 
-1.  In the prompt area of Google AI Studio, paste the following text:
+1.  In the prompt area at the bottom of the screen, paste the following text. Ensure the prompt is synced to appear in both the left and right panels.
     ```
     Act as a witty travel guide. Write a one-paragraph description of New York City for a first-time visitor.
     ```
-2.  **Run A (Factual Mode):**
-      * On the right-hand side, find the **Temperature** slider and set it to `0.2`.
-      * Leave the other settings (like Top-K and Top-P) at their default values.
-      * Click the **Run** button.
-      * Copy and paste the generated output into a separate document for later comparison.
-3.  **Run B (Creative Mode):**
-      * Do not change the prompt.
-      * Now, move the **Temperature** slider to `0.9`.
-      * Click **Run** again.
-      * Copy and paste this new output into your document.
+2.  **Configure Both Panels:**
+      * In the **left panel**, find the **Temperature** slider and set it to `0.2`.
+      * In the **right panel**, set the **Temperature** slider to `0.9`.
+3.  Click the **Run** button at the bottom of the screen to generate both responses simultaneously.
+
+<figure markdown="span">
+  ![Google AI Studio Compare Mode in Action](../../assets/images/compare-mode-in-action.png){ width="800" }
+  <figcaption>Google AI Studio Compare Mode in Action</figcaption>
+</figure>
 
 #### Analysis & Discussion
 
-Review the two outputs side-by-side and consider the following questions from your perspective as the product manager:
+Review the two outputs side-by-side  and consider the following questions from your perspective as the product manager:
 
-  * Compare the outputs. What are the key differences in **tone**, **word choice**, and **factual focus** between the low-temperature and high-temperature responses?
+  * Compare the outputs. What are the key differences in **tone**, **word choice**, and **factual focus** between the low-temperature (left) and high-temperature (right) responses?
   * Which output would you use for the official "About NYC" page inside the travel app? Why is its tone more appropriate for that feature?
   * Which output would be better for a catchy social media post to promote your app? Why does its style serve that purpose better?
 
------
 
 ### Exercise 2: The Power of a Good Product Spec (Prompt Anatomy)
 
@@ -66,17 +66,14 @@ Review the two outputs side-by-side and consider the following questions from yo
 
 #### Instructions
 
-1.  **Run A (The Vague Prompt):**
-      * Clear the previous prompt.
-      * On the right-hand side, ensure your settings are in "factual mode" (e.g., Temp `0.2`, Top-K `40`, Top-P `0.95`).
-      * Enter the following vague prompt and click **Run**:
+1.  **Configure Settings:**
+      * In both the left and right panels, set your configuration to "factual mode" by setting the **Temperature** to `0.2`.
+2.  **Configure Prompts:**
+      * In the **left panel**, enter the following **"Vague Prompt"**:
         ```
         things to do in Paris
         ```
-      * Observe the output. Note its structure, length, and the type of content it provides.
-2.  **Run B (The Well-Structured Prompt):**
-      * Keep the same "factual mode" settings.
-      * Clear the previous prompt and enter this well-structured prompt:
+      * In the **right panel**, enter the following **"Well-Structured Prompt"**:
         ```
         You are a helpful travel assistant. Your audience is a family with two children under 10.
 
@@ -84,15 +81,14 @@ Review the two outputs side-by-side and consider the following questions from yo
 
         For each activity, provide a one-sentence description. Return the output as a numbered list.
         ```
-      * Click **Run**.
+3.  Click the **Run** button to generate both responses.
 
 #### Analysis & Discussion
 
-  * Compare the two outputs. Is the result from the "Well-Structured Prompt" immediately usable in your app's user interface?
-  * How much manual editing or post-processing would the output from the "Vague Prompt" require to be useful? As a PM, what is the **business cost** of that extra work (e.g., developer time, content editor salaries)?
-  * Notice that the second prompt specified the **Persona**, **Context** (audience), **Task**, and **Format**. How did each of these components contribute to the superior quality of the final output?
+  * Compare the two outputs. Is the result from the "Well-Structured Prompt" (right panel) immediately usable in your app's user interface?
+  * How much manual editing or post-processing would the output from the "Vague Prompt" (left panel) require to be useful? As a PM, what is the **business cost** of that extra work (e.g., developer time, content editor salaries)?
+  * The prompt in the right panel specified the **Persona**, **Context** (audience), **Task**, and **Format**. How did each of these components contribute to the superior quality of the final output?
 
------
 
 ### Lab Wrap-up
 
