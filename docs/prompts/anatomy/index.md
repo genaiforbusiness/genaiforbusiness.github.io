@@ -14,6 +14,7 @@ hide:
 
 - [ :material-numeric-1:{ .lg .middle } __Prompt Anatomy__](intro.md)
 - [ :material-numeric-2:{ .lg .middle } __Prompt's Control Panel__](config.md) 
-- [ :material-numeric-7:{ .lg .middle } __Next Steps__](next-steps.md) 
+- [ :material-numeric-3:{ .lg .middle } __Prompt Lab__](activity.md) 
+- [ :material-numeric-4:{ .lg .middle } __Next Steps__](next-steps.md) 
 
 </div>
