@@ -3,19 +3,18 @@ icon: material/numeric-2
 ---
 
 
-# The Es
+# The Essential Building Blocks
 
 In the previous section, we established a mindset for tackling complex problems. Now, let's build on that by learning the single most important practice for turning a one-off prompt into a professional, application-ready asset: **prompt templates**.
 
------
 
 ### Moving Beyond the Playground 🚀
 
-Tools like Google AI Studio are fantastic "playgrounds." [cite\_start]They allow you to rapidly test ideas and experiment with prompts without writing any code[cite: 846]. However, when you move from prototyping to building a real software product, your approach needs to mature.
+Tools like Google AI Studio are fantastic "playgrounds." They allow you to rapidly test ideas and experiment with prompts without writing any code. However, when you move from prototyping to building a real software product, your approach needs to mature.
 
 In a real application, you can't just have prompts scattered around in your code. This is inefficient, hard to maintain, and impossible to scale. The professional approach is to use **prompt templates**, which are reusable, pre-defined text structures with placeholders for dynamic information.
 
-Think of a template as a blueprint for your prompt. It contains the core instructions that stay the same, with "blanks" that you fill in with specific data—like a customer's name, a product ID, or a piece of text to be analyzed—before sending it to the model. [cite\_start]Using variables in prompts allows you to make them more dynamic[cite: 815].
+Think of a template as a blueprint for your prompt. It contains the core instructions that stay the same, with "blanks" that you fill in with specific data—like a customer's name, a product ID, or a piece of text to be analyzed—before sending it to the model. Using variables in prompts allows you to make them more dynamic.
 
 -----
 
@@ -35,7 +34,7 @@ This works for a single case, but it's not reusable. To get a fact about a diffe
 
 #### **The Template-Based Prompt**
 
-[cite\_start]A much better approach is to create a template with a placeholder, often called a **variable**[cite: 818].
+A much better approach is to create a template with a placeholder, often called a **variable**.
 
 ```
 You are a travel guide. Tell me a fact about the city: {city}
@@ -66,7 +65,7 @@ print(prompt_for_tokyo)
 # You are a travel guide. Tell me a fact about the city: Tokyo
 ```
 
-[cite\_start]This approach is clean, scalable, and makes your prompts a manageable part of your application[cite: 820].
+This approach is clean, scalable, and makes your prompts a manageable part of your application.
 
 -----
 
@@ -81,4 +80,4 @@ print(prompt_for_tokyo)
 >   * **Maintainability:** If you need to update the instructions for a prompt that's used in 10 different parts of your application, templates let you do it in one central place. This saves time and reduces the risk of errors.
 
 
-I think this may be a good spot to introduce system instructions, the distinction between simple text completion versus multi-round chat, partial input strategy, and how it would translate in text completion API versus chat API (via providing manually constructed chat history).
+<!-- I think this may be a good spot to introduce system instructions, the distinction between simple text completion versus multi-round chat, partial input strategy, and how it would translate in text completion API versus chat API (via providing manually constructed chat history). -->

@@ -22,12 +22,12 @@ Think of our last lesson as learning about the core ingredients in a kitchen. Yo
 
 Now, it's time to learn the recipes.
 
-Prompting techniques are the proven recipes that combine those basic ingredients to create sophisticated and reliable outputs. Mastering them is the key to solving real-world business problems. [cite_start]It's important to remember that prompt engineering is an **iterative process**[cite: 33, 46]. Your first attempt will rarely be your last. [cite_start]The work involves crafting a prompt, analyzing the model's response, and refining the prompt until you consistently get the high-quality results your product requires[cite: 33, 886].
+Prompting techniques are the proven recipes that combine those basic ingredients to create sophisticated and reliable outputs. Mastering them is the key to solving real-world business problems. It's important to remember that prompt engineering is an **iterative process**. Your first attempt will rarely be your last. The work involves crafting a prompt, analyzing the model's response, and refining the prompt until you consistently get the high-quality results your product requires.
 
 ## Why a Toolkit? 
 **The Link Between Task Complexity and Technique 🛠️**
 
-A common question is, "Why do so many prompting techniques exist?" The answer lies in the incredible versatility of modern LLMs. [cite_start]Models like Gemini are **instruction-tuned**, which means they have been specifically trained on vast amounts of data to become exceptionally good at following instructions[cite: 120].
+A common question is, "Why do so many prompting techniques exist?" The answer lies in the incredible versatility of modern LLMs. Models like Gemini are **instruction-tuned**, which means they have been specifically trained on vast amounts of data to become exceptionally good at following instructions.
 
 However, not all instructions are created equal.
 * A **simple task**, like "Summarize this article," requires a simple, direct instruction.
