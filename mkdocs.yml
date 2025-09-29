@@ -173,6 +173,8 @@ nav:
 
     - Prompting Techniques:
       - prompts/techniques/index.md
+      - Introduction: prompts/techniques/intro.md 
+      - Essential Building Blocks: prompts/techniques/essentials.md
     - AI Safety & Ethics:
       - prompts/safety-ethics/index.md
     - Tapping Model Capabilities:
