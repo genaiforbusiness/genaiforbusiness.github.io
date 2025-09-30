@@ -3,7 +3,7 @@ icon: material/numeric-2
 ---
 
 
-# The Essential Building Blocks
+# The Essential Foundations
 
 In the previous section, we established a mindset for tackling complex problems. Now, we'll get practical. Building a single, effective prompt is a good start, but building a real-world AI product requires making those prompts scalable, maintainable, and ready to be integrated into an application.
 

@@ -76,12 +76,12 @@ This schedule is designed around a weekly rhythm. The first session of the week 
     | :---- | :---- |
     | 09/23 | 🧠 [Anatomy of a Prompt & Basic Prompting](../prompts/anatomy/index.md) |
     | 09/25 | 🛠️ Working with System Instructions, Variables & Templates |
-    | 09/30 | 🧠 [Prompting Strategies](../prompts/techniques/index.md) |
+    | 09/30 | 🧠 [Prompting Techniques](../prompts/techniques/index.md) |
     | 10/02 | 🛠️ Working with Prompt Structure, Reasoning, and Model Parameters|
-    | 10/07 | 🧠 [AI Safety & Ethics in Prompting](../prompts/safety-ethics/index.md) |
-    | 10/09 | 🛠️ Implementing Responsible AI Practices |
-    | 10/14 | 🧠 [Aligning Prompt Design with Model Capabilities](../prompts/capabilities/index.md) |
-    | 10/16 | 🛠️ Working with Thinking, Grounding, Structured Outputs, and Function Calling |
+    | 10/07 | 🧠 [Aligning Prompt Design with Model Capabilities](../prompts/capabilities/index.md)  |
+    | 10/09 | 🛠️ Working with Thinking, Grounding, Structured Outputs, and Function Calling  |
+    | 10/14 | 🧠 [AI Safety & Ethics in Prompting](../prompts/safety-ethics/index.md)|
+    | 10/16 | 🛠️ Implementing Responsible AI Practices|
     | 10/21 | 🧠 [Prompt Development Workflow: Explore, Evaluate, and Iterate](../prompts/workflow/index.md) |
     | 10/23 | 🛠️ Implementing Iterative Prompting Techniques |
    

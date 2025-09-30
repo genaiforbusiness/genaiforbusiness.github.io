@@ -242,7 +242,7 @@ Imagine you ask a model, "How many kids do the band members of Metallica have?" 
 
 This ability to interact with external tools makes the model dramatically more powerful and factually grounded.
 
-### 🤖 The Birth of AI Agents
+**🤖 The Birth of AI Agents**
 
 The ReAct paradigm is a fundamental step toward creating **AI agents**. An agent is more than just a text generator; it's an autonomous system that can reason about a goal and take a sequence of actions in a digital or physical environment to achieve it.
 

@@ -176,6 +176,8 @@ nav:
       - Introduction: prompts/techniques/intro.md 
       - Essential Building Blocks: prompts/techniques/essentials.md
       - Core Prompting Techniques: prompts/techniques/kit.md
+      - Workflow Tips: prompts/techniques/tips.md
+      - Conclusion & Next Steps: prompts/techniques/next-steps.md
     - AI Safety & Ethics:
       - prompts/safety-ethics/index.md
     - Tapping Model Capabilities:

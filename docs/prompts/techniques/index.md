@@ -12,9 +12,9 @@ hide:
 <div class="grid cards" markdown>
 
 - [ :material-numeric-1:{ .lg .middle } __Introduction to Prompting Techniques__](intro.md)
-- [ :material-numeric-2:{ .lg .middle } __Guided Tour of Model Card__](#) 
-- [ :material-numeric-3:{ .lg .middle } __Model Choice & Business Alignement__](#) 
-- [ :material-numeric-4:{ .lg .middle } __Hands-on Activity: Model Choice in Action__](#) 
+- [ :material-numeric-2:{ .lg .middle } __The Essential Foundations__](essentials.md) 
+- [ :material-numeric-3:{ .lg .middle } __Core Prompting Techniques__](kit.md) 
+- [ :material-numeric-4:{ .lg .middle } __Workflow Tips__](tips.md) 
 - [ :material-numeric-5:{ .lg .middle } __Next Steps__](next-steps.md) 
 
 </div>
