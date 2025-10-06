@@ -178,10 +178,14 @@ nav:
       - Core Prompting Techniques: prompts/techniques/kit.md
       - Workflow Tips: prompts/techniques/tips.md
       - Conclusion & Next Steps: prompts/techniques/next-steps.md
-    - AI Safety & Ethics:
-      - prompts/safety-ethics/index.md
     - Tapping Model Capabilities:
       - prompts/capabilities/index.md
+      - Introduction: prompts/capabilities/intro.md
+      - Reasoning & Structured Output: prompts/capabilities/reasoning-structured-output.md
+      - Function Calling & Code Generation: prompts/capabilities/function-code.md
+
+    - AI Safety & Ethics:
+      - prompts/safety-ethics/index.md
     - Prompt Workflow:
       - prompts/workflow/index.md
   - Context Engineering:
