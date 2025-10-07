@@ -8,7 +8,7 @@ icon: material/numeric-1
 
 In our initial sessions, we established the fundamentals of prompt engineering. We learned that a well-crafted prompt is the key to unlocking high-quality, relevant, and reliable outputs from a Generative AI model. Now, we are going to build on that foundation, moving from controlling a generalist AI to strategically deploying a team of specialists.
 
-#### **1.1 The Expert Intern Analogy: A Recap**
+#### **The Expert Intern Analogy: A Recap**
 
 Think back to our core framework for prompt design: **Role, Task, Context, and Format (RTCF)**. We used the analogy of giving a creative brief to a brilliant, highly capable intern.
 
@@ -19,7 +19,7 @@ Think back to our core framework for prompt design: **Role, Task, Context, and F
 
 This framework is your command center for guiding the AI. It's powerful, effective, and essential for getting predictable results for a wide array of general tasks. When you master RTCF, you are mastering the art of clear and effective delegation to a general-purpose AI.
 
-#### **1.2 Beyond Instruction Tuning: How Specialists are Made**
+#### **Beyond Instruction Tuning: How Specialists are Made**
 
 The model's ability to understand and execute on your RTCF prompts so effectively isn't magic. It's the result of a crucial phase in its development process called **instruction tuning**. During this phase, the model is trained on a vast and diverse dataset of instructions and high-quality responses. It learns to be a helpful, general-purpose assistant—our "expert intern."
 
@@ -33,7 +33,7 @@ During SFT, the model is intensely trained on a narrower, curated dataset of tho
 
 This specialized training creates new, distinct capabilities within the model. Our "expert intern" suddenly has a résumé with specific, verifiable skills: Data Analyst, Software Developer, Graphic Designer, and more. The RTCF framework is still our foundation, but to leverage these new skills, we must learn to write prompts that specifically activate this deeper training.
 
-#### **1.3 👩‍💼 The PM Perspective: From Prompting to Product Strategy**
+#### **👩‍💼 The PM Perspective: From Prompting to Product Strategy**
 
 As a product manager or business leader, why is this distinction between a generalist and a team of specialists so critical?
 

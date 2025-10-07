@@ -22,7 +22,11 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Introduction to Prompting Techniques](techniques/index.md)
+    [:octicons-arrow-right-24: Introduction to Prompting Techniques](techniques/intro.md)
 
+-   [:material-tools:{ .lg .middle } __Tapping Model Capabilities__](capabilities/index.md)
 
+    ---
+
+    [:octicons-arrow-right-24: Introduction to Model Capabilities](capabilities/intro.md)
 </div>
