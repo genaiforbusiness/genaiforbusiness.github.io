@@ -183,6 +183,10 @@ nav:
       - Introduction: prompts/capabilities/intro.md
       - Reasoning & Structured Output: prompts/capabilities/reasoning-structured-output.md
       - Function Calling & Code Generation: prompts/capabilities/function-code.md
+      - Multimodality: prompts/capabilities/multimodality.md
+      - Hands-On Lab : prompts/capabilities/activity.md
+      - Conclusion & Next Steps: prompts/capabilities/next-steps.md
+
 
     - AI Safety & Ethics:
       - prompts/safety-ethics/index.md
