@@ -12,7 +12,7 @@ This document defines the operational boundaries, technical environment, and cod
     *   `.github/`
     *   `mkdocs.yml`
     *   `pyproject.toml`
-    *   `GEMINI.md` (or core active instruction files)
+    *   `AGENT.md` (or core active instruction files)
 
 ## 2. Technical Stack & Conventions
 
