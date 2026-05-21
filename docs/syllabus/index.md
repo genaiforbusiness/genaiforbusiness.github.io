@@ -38,7 +38,7 @@ hide:
 - :material-bookshelf: [__Course Material__](course-materials.md)
 - :material-book-check-outline: [__Grading & Evaluation__](grading.md)
 - :octicons-project-24: [__Course Project__](ai-project/index.md)
-- :material-file-document-check-outline: [__AI Collaboration Policy__](course-policies.md)
+- :material-file-document-check-outline: [__AI Collaboration Policy__](ai-policy.md)
 - :material-file-document-multiple-outline: [__Course Policies__](course-policies.md)
 - :material-file-document-multiple-outline: [__Teaching Philosophy__](teaching-philosophy.md)
 

@@ -29,4 +29,17 @@ hide:
     ---
 
     [:octicons-arrow-right-24: Introduction to Model Capabilities](capabilities/intro.md)
+
+-   [:material-lifebuoy:{ .lg .middle } __AI Safety & Ethics__](safety-ethics/index.md)
+
+    ---
+
+    [:octicons-arrow-right-24: Introduction to Safety & Ethics](safety-ethics/index.md)
+
+-   [:material-file-tree:{ .lg .middle } __Prompt Development Workflow__](workflow/index.md)
+
+    ---
+
+    [:octicons-arrow-right-24: Prompt Development Lifecycle](workflow/index.md)
+
 </div>

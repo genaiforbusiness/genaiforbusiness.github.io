@@ -6,7 +6,7 @@ hide:
   - footer
 ---
 
-# Prompt Engineering
+# Anatomy of a Prompt
 
 
 
