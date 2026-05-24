@@ -39,9 +39,7 @@ hide:
 
     [:octicons-arrow-right-24: Prompt Design](prompts/index.md)
 
-    [:octicons-arrow-right-24: Context Engineering](contexts/index.md)
-
-    [:octicons-arrow-right-24: Agents & Tools](agents/index.md)
+    [:octicons-arrow-right-24: Agentic Systems & Memory](agentic-system/index.md)
 
 
 -   :material-book-check-outline:{ .lg .middle } __Grading & Evaluation__

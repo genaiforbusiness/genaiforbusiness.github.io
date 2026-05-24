@@ -1,5 +1,5 @@
 version = 1
-revision = 2
+revision = 3
 requires-python = ">=3.13"
 
 [[package]]
@@ -88,8 +88,8 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "mkdocs-glightbox", specifier = ">=0.4.0" },
-    { name = "mkdocs-material", specifier = ">=9.6.15" },
+    { name = "mkdocs-glightbox" },
+    { name = "mkdocs-material" },
 ]
 
 [[package]]

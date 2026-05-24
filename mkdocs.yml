@@ -192,7 +192,11 @@ nav:
       - prompts/safety-ethics/index.md
     - Prompt Workflow:
       - prompts/workflow/index.md
-  - Context Engineering:
-    - contexts/index.md
-  - Agents:
-    - agents/index.md
+  - Agentic Systems:
+    - agentic-system/index.md
+    - Introduction to Agentic Systems: agentic-system/agentic-paradigm.md
+    - Empowering Agents with Tools: agentic-system/empowering-tools.md
+    - Memory Architecture: agentic-system/memory-architectures.md 
+    - Implementing Memory & Grounding: agentic-system/implementing-memory.md
+    - Workflow Orchestration: agentic-system/orchestration-dags.md 
+    - Building an Orchestrated Workflow: agentic-system/agentic-workflow.md
