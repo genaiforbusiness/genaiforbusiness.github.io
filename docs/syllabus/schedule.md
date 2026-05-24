@@ -105,16 +105,16 @@ This schedule is designed around a weekly rhythm. The first session of the week 
     - [Prompt Examples Demonstrating Image Editing & Generation](https://blog.google/products/gemini/gemini-nano-banana-examples/)
     - [Prompt Examples Demonstrating Video Generation Using Images](https://blog.google/products/gemini/gemini-photo-to-video-tips/)
 
-=== "Context Engineering"
+=== "Agentic Systems"
 
     | Date  | Topic |
     | :---- | :---- |
-    | 10/28 | 🧠 Grounding Models with Retrieval-Augmented Generation (RAG) |
-    | 10/30 | 🛠️ Implementing a Basic RAG Pipeline |
+    | 10/28 | 🧠 Introuction to Agentic Systems |
+    | 10/30 | 🧠 Empowering Agents with Tools |
     | 11/04 | ==Project Booster: Async Week== |
     | 11/06 | ==Project Booster: Async Week== |
-    | 11/11 | 🧠 Context Caching, Summarization, & "Needle in a Haystack" Findings |
-    | 11/13 | 🛠️ Context Engineering in Practice |
+    | 11/11 | 🧠 Memory Architecture  |
+    | 11/13 | 🧠 Implementing Memory & Grounding |
 
     **Pre-class Activities:**
 
@@ -132,11 +132,11 @@ This schedule is designed around a weekly rhythm. The first session of the week 
 
     | Date  | Topic |
     | :---- | :---- |
-    | 11/18 | 🧠 Agents, Tools, MCP, & A2A Protocol  |
-    | 11/20 | 🛠️ Agents in Action |
+    | 11/18 | 🧠 Workflow Orchestration: ReAct vs. DAGs |
+    | 11/20 | 🧠 Building an Orchestrated Workflow |
     | 11/25 | ==Thanksgiving Recess== |
     | 11/27 | ==Thanksgiving Recess== |
-    | 12/02 | 🧠 Team Reflection  & Interviews|
+    | 12/02 | 🛠️ Team Reflection  & Interviews|
     | 12/04 | 🛠️ Launch Kit Peer Review, & Course Wrap-Up | 
     | 12/09 | ==Finals Week== |
     | 12/11 | ==Finals Week== |
