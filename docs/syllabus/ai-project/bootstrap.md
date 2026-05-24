@@ -16,7 +16,7 @@ icon: material/calendar-start-outline
 
 :people_holding_hands_tone1: -->
 
-The goal of this first task is to get your team organized and set up the professional collaboration environment we will use for the entire semester: **GitHub**. This exercise will ensure that every team member has a working GitHub account and understands the basic workflow of making a contribution to a shared project. We will use a course template that includes pre-configured settings for our development environment.
+The goal of this first task is to get your team organized and set up the professional collaboration environment we will use for the entire semester: **GitHub**. This exercise will ensure that every team member has a working GitHub account and understands the basic workflow of making a contribution to a shared project. We will use a course template that includes pre-configured settings and AI agents for our development environment.
 
 ### Due Date & Grading
 
@@ -44,7 +44,7 @@ Decide on your project team of 3-4 members. Once your team is formed, designate 
           * **Repository name:** Use the format `ai-poc-team-<your-team-name>` (e.g., `ai-poc-team-innovators`).
           * **Visibility:** You **must** select **Private**. This is a critical step.
           * Click "**Create repository**".
-    4.  **Add Collaborators:** Add Collaborators: In your newly created repository, go to Settings > Collaborators and teams. You must add two types of collaborators:
+    4.  **Add Collaborators:** In your newly created repository, go to Settings > Collaborators and teams. You must add two types of collaborators:
         - **Your Teammates**: Click "Add people" and add each of your teammates using their GitHub username.
         - **The Instructor**: You must also add the instructor so your work can be viewed and graded. The instructor's GitHub username is `midhubalan`.
 
@@ -102,6 +102,22 @@ Decide on your project team of 3-4 members. Once your team is formed, designate 
         ```bash
         git push
         ```
+
+#### **:material-numeric-6-circle: Meet Your Project Advisor (Antigravity CLI)**
+
+!!! tip "Meet Your Advisor: The Antigravity CLI 🤖"
+
+    Your new repository isn't just empty code; it comes with an AI co-pilot built-in! The course `chatbox` template includes the **Antigravity CLI (`agy`)** and pre-loaded workspace skills designed specifically to help you pass this course.
+
+    Once your Codespace is running, open a terminal and type:
+    ```bash
+    agy
+    ```
+    After authenticating, type:
+    ```bash
+    /project-advisor
+    ```
+    The agent will load the course advisor skill and help your team map out the very next steps for your project charter and MVP. You can also use skills like `/role-product-manager` to get help drafting user stories. Welcome to AI-augmented development!
 
 -----
 

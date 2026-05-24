@@ -72,23 +72,23 @@ An API key is a secret password that allows your application to communicate with
 Now, we will securely store your key in your project's primary development environment.
 
 1.  **Understand Secrets:** First, read the official GitHub documentation on [managing secrets for your Codespaces](https://docs.github.com/en/codespaces/managing-your-codespaces/managing-encrypted-secrets-for-your-codespaces).
-2.  **Store the Secret:** In your team's GitHub repository, navigate to **Settings \> Secrets and variables \> Codespaces**. Create a **new repository secret** with the name `GOOGLE_API_KEY` and paste your API key as the value.
+2.  **Store the Secret:** In your team's GitHub repository, navigate to **Settings \> Secrets and variables \> Codespaces**. Create a **new repository secret** with the name `GEMINI_API_KEY` and paste your API key as the value.
 3.  **Launch and Test:**
       * Create a new Codespace on your `main` branch.
       * Once the environment is running, **follow the instructions in the `README.md` file** to run a test script. This will confirm that your Codespace can securely access the API key and communicate with the Gemini API.
 
-!!! tip "**Custom GitHub Codespace Specification 💡**"
+!!! tip "**An AI-Augmented Workspace 💡**"
 
+    The **GitHub Codespace** you launch for this course isn't a generic environment; it's a custom-built, AI-augmented workspace defined by our `chatbox` template.
     
-    The **GitHub Codespace** you launch for this course isn't a generic environment; it's a custom-built workspace specifically for our project, defined by a `devcontainer` specification in your repository.
-
-    Think of it as a virtual computer where we've already installed all the special tools and files you'll need, so you can start building right away without worrying about setup.
-
-    Key customizations pre-loaded for you include:
-
-    * **[UV](https://docs.astral.sh/uv/):** A modern, high-speed Python package installer and resolver.
-    * **[Gemini CLI](https://google-gemini.github.io/gemini-cli/):** A command-line interface for interacting directly with the Gemini family of models.
-    * **[A Starter Streamlit App](https://docs.streamlit.io/):** A barebones application with the Google Gemini SDK already included as a dependency, giving you a ready-made foundation for your project.
+    Think of it as a virtual computer where we've already installed all the special tools, libraries, and AI assistants you'll need, so you can start building immediately. You are not starting from scratch!
+    
+    **Key features pre-loaded for you include:**
+    
+    *   **Antigravity CLI (`agy`):** A powerful, AI-driven agent running directly in your terminal. This is not just a tool; it's your project co-pilot.
+    *   **Workspace Skills (`.agents/skills/`):** The sandbox comes pre-configured with course-specific agent skills. When you run `agy`, you can type commands like `/project-advisor` to get immediate help with your deliverables, or `/role-product-manager` to help draft your user stories!
+    *   **A Starter Streamlit App:** A barebones web application with the Google Gemini SDK already included, giving you a ready-made foundation for your final project.
+    *   **[UV](https://docs.astral.sh/uv/):** A modern, high-speed Python package installer and resolver.
 
 ### **:material-numeric-5-circle: Configure and Test Google Colab**
 
@@ -98,4 +98,3 @@ Finally, we will configure the environment used for our individual labs.
 2.  **Open the Test Notebook:** Open the [`gemini.ipynb`](https://colab.research.google.com/github/genaiforbusiness/code-samples/blob/main/gemini.ipynb) in Colab. 
 3.  **Store the Secret:** In the notebook's side panel, click the **key icon (🔑)** to open the "Secrets" tab. Create a new secret with the name `GOOGLE_API_KEY` and paste your API key as the value. Ensure notebook access is enabled.
 4.  **Run the Cells:** Execute the pre-populated code cells in the notebook. A successful run will confirm your Colab environment is also correctly configured.
-
